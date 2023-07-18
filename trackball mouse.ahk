@@ -3,6 +3,12 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:11yuyan  ::https://cdn.discordapp.com/attachments/817077460142784542/1130659176708853820/facebook_1689640545171_7086866097173199914.jpg
+return
+
+:*:awpmp4  ::https://cdn.discordapp.com/attachments/817077460142784542/1130811581933039678/354206702_251954064104492_4823199433758890357_n.mp4
+return
+
 :*:cdrive  ::https://cdn.discordapp.com/attachments/774174877661134889/1111889604715495444/751386244-1-208.mp4
 return
 
@@ -1950,4 +1956,4 @@ return
 ^`::suspend ; Assign Ctirl+` toggle suspend the script
 ^0::exitapp ; Assign ctrl-esc to exit the scr
 ^9::reload
-:*:code   ::+;*+;+;+;{enter}return{up}{home}{right 3} ;
+:*:code  ::+;*+;+;+;{enter}return{up}{home}{right 3} ;

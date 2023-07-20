@@ -3,6 +3,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:xiamian  ::https://cdn.discordapp.com/attachments/774297339698348052/1131582544614281246/357562174_242447005394600_7077935746688719642_n.png
+return
+
 :*:jidu  ::https://cdn.discordapp.com/attachments/775009221758287913/1131067017919737896/image.png
 return
 

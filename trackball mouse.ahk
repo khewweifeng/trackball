@@ -3,6 +3,60 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:videosettings  ::https://cdn.discordapp.com/attachments/797580187302756382/1122364476814000178/FB_IMG_1687662822262.jpg
+return
+
+:*:nvidialol  ::https://cdn.discordapp.com/attachments/797580187302756382/1122752042285404160/356030937_1687296148404334_4326870641399305280_n.png
+return
+
+:*:elontwitter  ::https://cdn.discordapp.com/attachments/797580187302756382/1124965917592387594/Fz_nMI_WAAE-cwD.png
+return
+
+:*:programmingracing  ::https://cdn.discordapp.com/attachments/797580187302756382/1125800474281525318/facebook_1688482142509_7082007404257544666.jpg
+return
+
+:*:lttpc  ::https://cdn.discordapp.com/attachments/797580187302756382/1127760574500048946/facebook_1688949467830_7083967508719105750.jpg
+return
+
+:*:elon  ::https://cdn.discordapp.com/attachments/797580187302756382/1127986873097261136/facebook_1689003421731_7084193807781289927.jpg
+return
+
+:*:trash  ::https://cdn.discordapp.com/attachments/797580187302756382/1128504160535457882/facebook_1689126752449_7084711094305077500.jpg
+return
+
+:*:current  ::https://cdn.discordapp.com/attachments/797580187302756382/1128532955225141358/facebook_1689133618224_7084739891453122155.jpg
+return
+
+:*:cnai  ::https://cdn.discordapp.com/attachments/797580187302756382/1128715347399282738/1120511759_nb3-1-16.mp4
+return
+
+:*:usbc  ::https://cdn.discordapp.com/attachments/797580187302756382/1129986945125191782/facebook_1689480275424_7086193877136712598.jpg
+return
+
+:*:sudo  ::https://cdn.discordapp.com/attachments/797580187302756382/1130357819154104401/361256133_666719508820393_1276479637125149372_n.png
+return
+
+:*:backend  :::*:backend  ::https://cdn.discordapp.com/attachments/797580187302756382/1131103124799631392/facebook_1689746388692_7087310037080449212.jpg
+return
+
+:*:howtohacking  ::https://cdn.discordapp.com/attachments/797580187302756382/1131273507725131817/facebook_1689787013858_7087480431375708430.jpg
+return
+
+:*:wxp  ::https://cdn.discordapp.com/attachments/797580187302756382/1131556966775410738/1200023606-1-192.mp4
+return
+
+:*:cisco  ::https://cdn.discordapp.com/attachments/797580187302756382/1131940447858741391/facebook_1689946024689_7088147371139917771.jpg
+return
+
+:*:59fps  ::https://cdn.discordapp.com/attachments/797580187302756382/1131974175465148437/facebook_1689954066803_7088181102208203855.jpg
+return
+
+:*:nvidia  ::https://cdn.discordapp.com/attachments/797580187302756382/1132110591234941040/facebook_1689986589573_7088317512595721664.jpg
+return
+
+:*:lipstick  ::https://www.instagram.com/reel/CuMdqZlAzuG/?igshid=MTc4MmM1YmI2Ng==
+return
+
 :*:xiamian  ::https://cdn.discordapp.com/attachments/774297339698348052/1131582544614281246/357562174_242447005394600_7077935746688719642_n.png
 return
 

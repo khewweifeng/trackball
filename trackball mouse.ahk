@@ -3,6 +3,21 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:fakecv  ::https://cdn.discordapp.com/attachments/817077460142784542/1155343375894065232/paw.exe-20230924-0001.mp4
+return
+
+:*:unwilling  ::https://cdn.discordapp.com/attachments/916331440747188234/1154562536520302592/facebook_1695339552433_7110769466129288626.jpg
+return
+
+:*:milf  ::https://cdn.discordapp.com/attachments/774297339698348052/1153936287150125156/image0.jpg
+return
+
+:*:jiubudaole  ::https://youtu.be/GV3_NqxEeZo
+return
+
+:*:xionghuai  ::https://cdn.discordapp.com/attachments/833330336708165652/888250473050685450/unknown.png
+return
+
 :*:warning  ::https://cdn.discordapp.com/attachments/833330336708165652/1137082734355951737/facebook_1691172033850_7093289626268228849.jpg
 return
 
@@ -1845,7 +1860,7 @@ return
 :*:hehehe  ::https://cdn.discordapp.com/attachments/833330336708165652/894459901072506890/unknown.png
 return
 
-:*:zhonghuajiao  ::https://cdn.discordapp.com/attachments/833330336708165652/894757072531505182/05102021-0924AM.mp4
+:*:jiao  ::https://cdn.discordapp.com/attachments/833330336708165652/894757072531505182/05102021-0924AM.mp4
 return
 
 :*:xidada  ::https://cdn.discordapp.com/attachments/833330336708165652/894759552686387260/unknown.png

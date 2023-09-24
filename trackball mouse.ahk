@@ -3,6 +3,12 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:attack  ::https://tenor.com/view/attack-penguin-king-the-super-mario-bros-movie-forward-get-them-gif-26913735
+return
+
+:*:scanqr  ::https://cdn.discordapp.com/attachments/630553822036623370/1139701679370027119/srk.gif
+return
+
 :*:fakecv  ::https://cdn.discordapp.com/attachments/817077460142784542/1155343375894065232/paw.exe-20230924-0001.mp4
 return
 

@@ -3,6 +3,15 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:shoudou  ::https://cdn.discordapp.com/attachments/833330336708165652/1061602415071219788/image0.jpg?ex=6516078b&is=6514b60b&hm=b2f3016dc71e43d3877dfe86c9cf9afa92d45c1e7e2732d5b65bbd6939aedab2&
+return
+
+:*:qidong  ::https://cdn.discordapp.com/attachments/775009221758287913/1155913600913903796/image.png?ex=6513b8ae&is=6512672e&hm=b1861e47f6b23f696307f2e6a4ee6eacc3ae6ba9564b7591b8436d968e5ae32f&
+return
+
+:*:genshinrope  ::https://cdn.discordapp.com/attachments/775009221758287913/1155812328495927336/379466542_353458193687165_4617075102238484894_n.mp4
+return
+
 :*:attack  ::https://tenor.com/view/attack-penguin-king-the-super-mario-bros-movie-forward-get-them-gif-26913735
 return
 
@@ -1572,7 +1581,7 @@ return
 :*:chushi  ::https://cdn.discordapp.com/attachments/833330336708165652/902931483008827442/vlcsnap-2021-04-30-17h48m14s810.png
 return
 
-:*:nohorny  ::https://tenor.com/view/%E4%B8%8D%E5%8F%AF%E4%BB%A5%E8%89%B2%E8%89%B2-gif-23201012
+:*:nohorny  ::https://tenor.com/view/ninomae-inanis-takodachi-tako-no-horni-horni-gif-26104396
 return
 
 :*:bushun  ::https://cdn.discordapp.com/attachments/774174877661134889/902495029132668958/safe_image.png

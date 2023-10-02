@@ -3,6 +3,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:checkip  ::https://cdn.discordapp.com/attachments/797580187302756382/1157874363631161384/384512184_717145960441220_5866095273945322826_n.png
+return
+
 :*:yeeting  ::https://cdn.discordapp.com/attachments/774297339698348052/1158208300219899904/facebook_1696208772245_7114415238264099242.jpg
 return
 
@@ -2055,9 +2058,10 @@ return
 :*:goushadiao  ::https://cdn.discordapp.com/attachments/833330336708165652/884734584326070292/c6iE8UwktN25Aki-WjGWpzZBJY-cHA3XhoWifNJf-PwcXMPyutxXtTrgHIdwn2KpgqTN8b9x6jQsins8A9e2gT-ezHLslIzFHdcE.png
 return
 
-F3::mbutton
-return
+;
 
+:*:dcrem  ::^{left 13}+{end}{del}{shift down}{home 2}{shift up}^x
+return
 
 !d::WheelDown ; alt d - scrollwheel down
 return
@@ -2065,8 +2069,8 @@ return
 !s::wheelup ; alt s - scrollwheel up
 return
 
-:*:shift2::{raw}{shift down}{enter 2}{shift up}
-:*:shift::{raw}{shift down}{enter}{shift up}
+:*:shift2  ::{raw}{shift down}{enter 2}{shift up}
+:*:shift  ::{raw}{shift down}{enter}{shift up}
 ^`::suspend ; Assign Ctirl+` toggle suspend the script
 ^0::exitapp ; Assign ctrl-esc to exit the scr
 ^9::reload

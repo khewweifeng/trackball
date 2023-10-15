@@ -3,6 +3,12 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:babyvape  ::https://vxtwitter.com/AdamPadilla/status/901223323010555904
+return
+
+:*:vape  ::https://cdn.discordapp.com/attachments/817077460142784542/1163064004567113769/image0-1.jpg
+return
+
 :*:klee  ::https://tenor.com/view/klee-genshin-impact-loli-cute-red-gif-20558953
 return
 

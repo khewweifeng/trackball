@@ -2126,6 +2126,12 @@ return
 
 ;
 
+; Replace x.com with vxtwitter.com
+!+x::
+clipboard := StrReplace(clipboard, "x.com", "vxtwitter.com")
+return
+
+
 :*:dcrem  ::^{left 13}+{end}{del}{shift down}{home 2}{shift up}^x
 return
 

@@ -3,6 +3,33 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:klee  ::https://tenor.com/view/klee-genshin-impact-loli-cute-red-gif-20558953
+return
+
+:*:cute  ::https://tenor.com/view/rio-cute-blue-a-gif-11365831378990912212
+return
+
+:*:theworldgif  ::https://media.discordapp.net/attachments/833330336708165652/1139741503527321720/received_829174368650490.gif
+return
+
+:*:eatgrass  ::https://tenor.com/view/seseren-blue-archive-gif-27680294
+return
+
+:*:money  ::https://tenor.com/view/seseren-gif-26509266
+return
+
+:*:youduncome  ::https://tenor.com/view/mikamo-neru-tendou-arisu-aris-alice-blue-archive-gif-27523891
+return
+
+:*:handjob  ::https://tenor.com/view/blue-archive-gif-25174427
+return
+
+:*:blush  ::https://tenor.com/view/koharu-blue-archive-blushing-gif-24954930
+return
+
+:*:okbye  ::https://tenor.com/view/hiyori-blue-archive-tsuchinaga-bye-ok-bye-gif-1088493214539371492
+return
+
 :*:shewendaoqian  ::https://cdn.discordapp.com/attachments/775009221758287913/1162904984250220544/facebook_1697328545980_7119111909719853176.jpg
 return
 

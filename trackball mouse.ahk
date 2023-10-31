@@ -3,6 +3,30 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:silema  ::https://cdn.discordapp.com/attachments/817077460142784542/1167698104104005662/dawei3055-20231028-0001.mp4
+return
+
+:*:printer  ::https://cdn.discordapp.com/attachments/797580187302756382/1167748657584541756/facebook_1698483363121_7123955563874853912.jpg
+return
+
+:*:tangseng  ::https://cdn.discordapp.com/attachments/774297339698348052/1166652743277084682/facebook_1698222083657_7122859678373101103.jpg
+return
+
+:*:nigger  ::https://cdn.discordapp.com/attachments/774297339698348052/1165166196019171448/Screenshot_2023-10-21-13-51-05-71_1c337646f29875672b5a61192b9010f9.jpg
+return
+
+:*:actpro  ::https://cdn.discordapp.com/attachments/774297339698348052/1164504132011438140/facebook_1697709811098_7120711051527939898.jpg
+return
+
+:*:nopower  ::https://cdn.discordapp.com/attachments/797580187302756382/1164862048853819463/facebook_1697795137245_7121068935330146080.jpg
+return
+
+:*:yisheng  ::https://cdn.discordapp.com/attachments/774177189955895317/1164475190605004841/facebook_1697702907889_7120682097372613251.jpg
+return
+
+:*:getgay  ::https://cdn.discordapp.com/attachments/797580187302756382/1164451633225289768/FB_IMG_1697697192407.jpg
+return
+
 :*:thed  ::https://cdn.discordapp.com/attachments/774297339698348052/1164202328384086066/facebook_1697637856638_7120409252652037387.jpg
 return
 
@@ -222,7 +246,7 @@ return
 :*:zhezhongren  ::https://cdn.discordapp.com/attachments/774297339698348052/1102890786640637993/344399276_1347554549142949_932377737236814486_n.png
 return
 
-:*:fasheng  ::https://youtu.be/TlT4fSfJLFg
+:*:fashengshenmeshile  ::https://youtu.be/TlT4fSfJLFg
 return
 
 :*:gscute  ::https://cdn.discordapp.com/attachments/775009221758287913/1101183563338104832/1109522451-1-208.mp4

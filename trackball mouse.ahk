@@ -3,6 +3,12 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:ema  ::https://cdn.discordapp.com/attachments/774297339698348052/1175606336923373598/402878557_325827886815789_6911645422411060794_n.png
+return
+
+:*:whyyoutube  ::https://cdn.discordapp.com/attachments/797580187302756382/1175581372648259715/facebook_1700350830664_7131788290460278438.jpg
+return
+
 :*:pinklife  ::https://cdn.discordapp.com/attachments/774297339698348052/1171697044512047145/facebook_1699424738432_7127903978107580549.jpg
 return
 
@@ -2169,7 +2175,10 @@ return
 :*:goushadiao  ::https://cdn.discordapp.com/attachments/833330336708165652/884734584326070292/c6iE8UwktN25Aki-WjGWpzZBJY-cHA3XhoWifNJf-PwcXMPyutxXtTrgHIdwn2KpgqTN8b9x6jQsins8A9e2gT-ezHLslIzFHdcE.png
 return
 
-;
+; Remove ?ex= from discord link
+!+d::
+clipboard := StrReplace(clipboard, "?ex=", " ")
+return
 
 ; Replace x.com with vxtwitter.com
 !+x::

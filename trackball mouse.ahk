@@ -3,6 +3,15 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:gtamy  ::https://cdn.discordapp.com/attachments/817077460142784542/1182664085943373925/408052207_1094778944865707_5534971521251263899_n.mp4
+return
+
+:*:mav  ::https://cdn.discordapp.com/attachments/817077460142784542/1181578757170008105/mgagmy-20231205-0001.jpg
+return
+
+:*:konek  ::https://v.redd.it/2yg3r06q3f4c1/DASH_360.mp4
+return
+
 :*:allahbird  ::https://cdn.discordapp.com/attachments/774174877661134889/1180553919194222622/Allahu_akbar_bird.mp4
 return
 
@@ -2181,7 +2190,7 @@ return
 :*:goushadiao  ::https://cdn.discordapp.com/attachments/833330336708165652/884734584326070292/c6iE8UwktN25Aki-WjGWpzZBJY-cHA3XhoWifNJf-PwcXMPyutxXtTrgHIdwn2KpgqTN8b9x6jQsins8A9e2gT-ezHLslIzFHdcE.png
 return
 
-; Remove ?ex= from discord link
+; Remove discord tracker link
 !+d::
 clipboard := StrReplace(clipboard, "?ex=", " ")
 return
@@ -2189,6 +2198,11 @@ return
 ; Replace x.com with vxtwitter.com
 !+x::
 clipboard := StrReplace(clipboard, "x.com", "vxtwitter.com")
+return
+
+; Remove shopee tracker link
+!+s::
+clipboard := StrReplace(clipboard, "?sp_atk=", " ")
 return
 
 

@@ -3,6 +3,24 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:app  ::appwiz.cpl
+return
+
+:*:printer  ::control printers
+return
+
+:*:region  ::intl.cpl
+return
+
+:*:net  ::ncpa.cpl
+return
+
+:*:techbender  ::https://cdn.discordapp.com/attachments/797580187302756382/1179611381834731590/linustech-20231130-0001.mp4
+return
+
+:*:terrorist  ::https://cdn.discordapp.com/attachments/1162034653104984065/1189584028781776956/ra2_trsticon.png
+return
+
 :*:gtamy  ::https://cdn.discordapp.com/attachments/817077460142784542/1182664085943373925/408052207_1094778944865707_5534971521251263899_n.mp4
 return
 
@@ -2189,6 +2207,60 @@ return
 
 :*:goushadiao  ::https://cdn.discordapp.com/attachments/833330336708165652/884734584326070292/c6iE8UwktN25Aki-WjGWpzZBJY-cHA3XhoWifNJf-PwcXMPyutxXtTrgHIdwn2KpgqTN8b9x6jQsins8A9e2gT-ezHLslIzFHdcE.png
 return
+
+;===========================================================================================
+
+!+`::process, close, explorer.exe
+loop{
+    sleep, 500
+    process, exist, explorer.exe
+    explorerstatus := errorlevel
+
+    if (explorerstatus = 0)
+    run, explorer.exe
+}until (explorerstatus > 0)
+return
+
+
+!+\::
+ExplorerRestart(){
+
+	; Array to store the path of all opened windows
+	exeRebootA	:= []
+
+	; Loops through all open windows
+	for w in ComObjCreate("Shell.Application").Windows
+		; Adds path to array for reopening later
+		exeRebootA.Push(w.Document.Folder.Self.Path)
+
+	; Kill of explorer
+	Process, Close, Explorer.exe
+
+	; Loop until explorer is running again
+	Loop{
+		; Small processing time buffer
+		Sleep, 500
+		; Check to see if explorer restarted itself
+		Process, Exist, Explorer.exe
+		; Store ErrorLevel to explorerStatus
+		explorerStatus	:= ErrorLevel
+
+		; If explorer not running, try running explorer.exe again
+		if (explorerStatus = 0)
+			Run, Explorer.exe
+
+	}until (ExplorerStatus > 0)
+
+	; Small processing time buffer
+	Sleep, 500
+
+	; Loop through backed up window paths
+	for index, value in exeRebootA
+		; Run each path to open a window back to it
+		Run, % value
+
+	return
+}
 
 ; Remove discord tracker link
 !+d::

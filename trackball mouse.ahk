@@ -3,6 +3,18 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:popcorn  ::https://cdn.discordapp.com/attachments/833330336708165652/1149284194091012188/image.png
+return
+
+:*:magic  ::https://cdn.discordapp.com/attachments/1030513303711142000/1030513304055062588/unknown.png
+return
+
+:*::d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png
+return
+
+:*:wdf  :: https://tenor.com/view/what-the-fuck-what-the-what-celebrate-midnight3am-vacation-mode-gif-3541721899821803002
+return
+
 :*:app  ::appwiz.cpl
 return
 

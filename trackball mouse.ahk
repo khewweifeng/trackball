@@ -3,6 +3,15 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:;d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png?ex=6627af4c&is=66153a4c&hm=c41347ed1ff845107f67d45435900745016db626360235a193632ba12e83072e&
+return
+
+:*:chunyao  ::https://cdn.discordapp.com/attachments/817077460142784542/1222885035917709373/FB_IMG_1711628900301.jpg?ex=6617d770&is=66056270&hm=52223eb1d5003769efdcfd0984c1cfec3be2c31e74bbba88c89f5d32fd5ca1fd&
+return
+
+:*:twisthead  ::http://pansci.asia/wp-content/uploads/2020/08/38878a2b03c06435b9fe45c2eb2d9d10.gif
+return
+
 :*:powerd  ::https://cdn.discordapp.com/attachments/774297339698348052/1212282994652352553/facebook_1709101179516_7168489913650430882.jpg?ex=65f14585&is=65ded085&hm=55152d367d925770b24a8087ee83f5ef0e68338dca6bbd19ccab95b27e02bd11&
 return
 
@@ -1626,7 +1635,7 @@ return
 :*:keyisese  ::https://cdn.discordapp.com/attachments/833330336708165652/912358544844681216/received_311005514178731.jpeg
 return
 
-:*:o0o  ::https://cdn.discordapp.com/attachments/833330336708165652/912662890870341632/IMG_20211123_191618.jpg
+:*:o0o  ::https://cdn.discordapp.com/attachments/817077460142784542/1221099265947078717/D6BA759E2C6E48038EE73AE97361B330.jpg?ex=6611584f&is=65fee34f&hm=cc3e377dbf0a1f5b5d8c2d58a3e6c916e997a3a26134160ae29d90419bcaa753&
 return
 
 :*:huati  ::https://cdn.discordapp.com/attachments/775009221758287913/892104701879918616/FB_IMG_1632763699728.jpg

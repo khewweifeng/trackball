@@ -3,7 +3,10 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
-:*:;d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png?ex=6627af4c&is=66153a4c&hm=c41347ed1ff845107f67d45435900745016db626360235a193632ba12e83072e&
+:*:kfcman  ::https://www.youtube.com/watch?v=X7Rdu2pkSXs&t=19
+return
+
+:*:;d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png?ex=662f984c&is=662e46cc&hm=f1362eef68f06422e4dd8a4d39979e9d151655b036717b730a4001bca992cc3a&
 return
 
 :*:chunyao  ::https://cdn.discordapp.com/attachments/817077460142784542/1222885035917709373/FB_IMG_1711628900301.jpg?ex=6617d770&is=66056270&hm=52223eb1d5003769efdcfd0984c1cfec3be2c31e74bbba88c89f5d32fd5ca1fd&
@@ -1623,7 +1626,7 @@ return
 :*:tedian  ::https://cdn.discordapp.com/attachments/800276162571927572/913606313450287174/unknown.png
 return
 
-:*:kfc  ::https://media.discordapp.net/attachments/682498846777016331/887343191060271104/GLD0_4B69X9OK226EPK7.gif
+:*:kfc  ::https://media.discordapp.net/attachments/682498846777016331/887343191060271104/GLD0_4B69X9OK226EPK7.gif?ex=662fadbe&is=662e5c3e&hm=32fb5f96e798de7befdcd4b3218bc23ed825a5914c165cf906db1ba5a27517af&
 return
 
 :*:tu  ::https://pbs.twimg.com/media/Ep_8dfYVQAAXy8U.jpg

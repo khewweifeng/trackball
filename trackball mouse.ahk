@@ -3,6 +3,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:blackcard  ::https://tenor.com/en-GB/view/kanna-kamui-chloe-black-card-rich-hotdog-gif-23044743
+return
+
 :*:kfcman  ::https://www.youtube.com/watch?v=X7Rdu2pkSXs&t=19
 return
 

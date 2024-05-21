@@ -951,7 +951,7 @@ return
 :*:rickanime  ::https://youtu.be/ZJBMzYB8L3E
 return
 
-:*:typing  ::https://media.discordapp.net/attachments/774174877661134889/956917846867312710/SmartSelect_20220325-220943_Discord.gif
+:*:typing  ::https://media.discordapp.net/attachments/774174877661134889/956917846867312710/SmartSelect_20220325-220943_Discord.gif?ex=663ed371&is=663d81f1&hm=899ceea3ea5594887471c26853574c692b0889d8b703d36f6464415542eb27ff&
 return
 
 :*:sanxiao  ::https://cdn.discordapp.com/attachments/817077460142784542/962331407949127710/1.mp4

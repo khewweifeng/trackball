@@ -3,6 +3,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:tagguoliao  ::https://discord.com/channels/774154428093169684/817077460142784542/1248871660853919854
+return
+
 :*:lenjing  ::https://cdn.discordapp.com/attachments/833330336708165652/1028358107484667904/Screenshot_20221009-012730.jpg?ex=665419de&is=6652c85e&hm=1e452a421a67efb6df563a35dbc2240f793bfbd2878bd53d78f53d735aef61ed&
 return
 
@@ -1134,7 +1137,7 @@ return
 :*:soap  ::https://media.tenor.co/videos/760cc063a496ca12131f4d663872e9dc/mp4
 return
 
-:*:linux  ::https://cdn.discordapp.com/attachments/774297339698348052/945184130738581544/unknown.png
+:*:linux  ::https://cdn.discordapp.com/attachments/774297339698348052/945184130738581544/unknown.png?ex=666a7dd1&is=66692c51&hm=dd53825034a46c5eae216913ede404c421e76199daa5205303a588e47c0a0f2c&
 return
 
 :*:cc2  ::https://tenor.com/view/suisei-credit-card-hololive-suisei-credit-card-gif-22602303

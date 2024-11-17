@@ -11,6 +11,47 @@ F4::
 return
 
 
+; Press F5 to execute the left click action - charged attack 
+F5::
+    Loop, 8
+    {
+        Sleep, 25  ; 0.025 seconds
+        Click, down
+        Sleep, 300  ; 0.3 seconds
+	click, up
+    }
+return
+
+
+; Press F6 to execute the left click action - charged attack corin
+F6::
+    Loop, 12
+    {
+        Sleep, 25  ; 0.025 seconds
+        Click, down
+        Sleep, 300  ; 0.3 seconds
+	click, up
+    }
+return
+
+
+; Press F8 to execute holding E key
+F8::
+    Send, {e Down} 
+	Sleep, 1000 ; Adjust the sleep time as needed for the charge duration for 1 sec.
+	Send, {e Up}
+return
+
+
+; Press F9 to execute holding E key - corin
+F9::
+    Send, {e Down} 
+	Sleep, 2000 ; Adjust the sleep time as needed for the charge duration for 2 sec.
+	Send, {e Up}
+return
+
+
+
 :*:code  ::+;*+;+;+; {home} {right 5}{space 2}
 ^`::suspend
 ^escape::exitapp

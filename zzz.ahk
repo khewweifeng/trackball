@@ -1,5 +1,20 @@
 ﻿#SingleInstance, force
 
+; Press R to start/stop the left click toggle action
+R::
+    Toggle := !Toggle
+    if (Toggle) {
+        SetTimer, ClickMouse, 25
+    } else {
+        SetTimer, ClickMouse, Off
+    }
+return
+
+ClickMouse:
+    Click
+return
+
+
 ; Press F4 to execute the left click action 4 times - soldier 11
 F4::
     Loop, 8

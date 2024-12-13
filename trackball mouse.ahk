@@ -3,6 +3,9 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
+:*:paiyipaijiuhao  ::https://cdn.discordapp.com/attachments/833330336708165652/1040996399094964224/Screenshot_20221112-222657.jpg?ex=675ced32&is=675b9bb2&hm=23c5dd9551fbc34be4757be8a575d72be09dd93d79129bb66d1f4f7dfa6c7994&
+return
+
 :*:source  ::https://media.discordapp.net/attachments/775009221758287913/1253554555807858751/facebook_1718941085002_7209761468590895565.jpg?ex=66764728&is=6674f5a8&hm=f877649b03bd905694de057e1269d814f2f5572e641605a56ef44d8d7fcccfc8&=&format=webp&width=612&height=612
 return
 
@@ -655,7 +658,7 @@ return
 :*:dqfinger  ::https://tenor.com/view/%E4%BD%8E%E6%B8%85%E7%A5%9E%E4%B9%8B%E6%89%8B-gif-24359542
 return
 
-:*:dqdanshen  ::https://tenor.com/view/%E4%BD%8E%E6%B8%85-dissy-%E5%8D%95%E8%BA%AB-smile-whats-wrong-with-being-single-gif-16347815
+:*:dqdanshen  ::https://cdn.discordapp.com/attachments/833330336708165652/1058366668365111356/image.png?ex=675cd685&is=675b8505&hm=c2ce92163e28c8d9ad91224f810f7d0559981a86952da6133e2a83dbfd739b6f&
 return
 
 :*:caishen  ::https://cdn.discordapp.com/attachments/774297339698348052/1066667109708480522/facebook_1674383645174_7022874020490877650.jpg
@@ -664,10 +667,10 @@ return
 :*:yasuiqian  ::https://cdn.discordapp.com/attachments/774297339698348052/1066668632442146908/facebook_1674384010711_7022875553665049922.jpg
 return
 
-:*:taderenla  ::https://cdn.discordapp.com/attachments/833330336708165652/1058378728301920306/image.png
+:*:nijiushitaderenla  ::https://cdn.discordapp.com/attachments/833330336708165652/1058378728301920306/image.png?ex=675ce1c0&is=675b9040&hm=46f6a4a8bc75cf1e530e769e8f0e742cf882c513fa9217a4b429f5986910b6b9&
 return
 
-:*:jirou2  ::https://cdn.discordapp.com/attachments/833330336708165652/1058366668365111356/image.png
+:*:jirou2  ::https://cdn.discordapp.com/attachments/833330336708165652/1058366668365111356/image.png?ex=675cd685&is=675b8505&hm=c2ce92163e28c8d9ad91224f810f7d0559981a86952da6133e2a83dbfd739b6f&
 return
 
 :*:rock  ::https://cdn.discordapp.com/attachments/833330336708165652/1058365745941184552/image.png
@@ -712,7 +715,7 @@ return
 :*:power  ::https://cdn.discordapp.com/attachments/775009221758287913/1054697663343374407/facebook_1671529908730_7010904582306695826.jpg
 return
 
-:*:cutic  ::https://cdn.discordapp.com/attachments/817077460142784542/1049904236026151033/facebook_1670387069679_7006111167902950071.jpg
+:*:cutic  ::https://cdn.discordapp.com/attachments/817077460142784542/1049904236026151033/facebook_1670387069679_7006111167902950071.jpg?ex=675d0884&is=675bb704&hm=bd4459be6efbf6ec0be69c1fbb7bfb1322ec2f311d55638dd0be54de5b79fde6&
 return
 
 :*:amituofo  ::https://cdn.discordapp.com/attachments/817077460142784542/1049963360638222367/facebook_1670401157283_7006170255600121864.jpg
@@ -1971,7 +1974,7 @@ return
 :*:shenme  ::https://cdn.discordapp.com/attachments/833330336708165652/901089149178749018/unknown.png
 return
 
-:*:jirou  ::https://cdn.discordapp.com/attachments/833330336708165652/901087019638349874/unknown.png
+:*:jirou  ::
 return
 
 :*:7heart  ::https://cdn.discordapp.com/attachments/833330336708165652/900192268198215690/239969468_4481923118551887_4938051406100106344_n.png
@@ -2442,10 +2445,6 @@ ExplorerRestart(){
 	return
 }
 
-; Remove discord tracker link
-!+d::
-clipboard := StrReplace(clipboard, "?ex=", " ")
-return
 
 ; Replace x.com with vxtwitter.com
 !+x::
@@ -2455,10 +2454,6 @@ return
 ; Remove shopee tracker link
 !+s::
 clipboard := StrReplace(clipboard, "?sp_atk=", " ")
-return
-
-
-:*:dcrem  ::^{left 13}+{end}{del}{shift down}{home 2}{shift up}^x
 return
 
 !d::WheelDown ; alt d - scrollwheel down

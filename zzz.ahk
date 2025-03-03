@@ -66,6 +66,12 @@ F9::
 return
 
 
+!d::WheelDown ; alt d - scrollwheel down
+return
+
+!s::wheelup ; alt s - scrollwheel up
+return
+
 
 :*:code  ::+;*+;+;+; {home} {right 5}{space 2}
 ^`::suspend

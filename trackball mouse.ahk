@@ -3,155 +3,20 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 
-:*:paiyipaijiuhao  ::https://cdn.discordapp.com/attachments/833330336708165652/1040996399094964224/Screenshot_20221112-222657.jpg?ex=675ced32&is=675b9bb2&hm=23c5dd9551fbc34be4757be8a575d72be09dd93d79129bb66d1f4f7dfa6c7994&
-return
-
-:*:source  ::https://media.discordapp.net/attachments/775009221758287913/1253554555807858751/facebook_1718941085002_7209761468590895565.jpg?ex=66764728&is=6674f5a8&hm=f877649b03bd905694de057e1269d814f2f5572e641605a56ef44d8d7fcccfc8&=&format=webp&width=612&height=612
-return
-
-:*:linuxgraph  ::https://cdn.discordapp.com/attachments/774297339698348052/1040114978323177482/facebook_1668053127210_6996321903673142549.jpg?ex=666a700f&is=66691e8f&hm=5f5e7f0317880acfe0236cfffcd77588d7a428efd6460495a6b0187de8f680d8&
-return
-
-:*:tagguoliao  ::https://discord.com/channels/774154428093169684/817077460142784542/1248871660853919854
-return
-
-:*:lenjing  ::https://cdn.discordapp.com/attachments/833330336708165652/1028358107484667904/Screenshot_20221009-012730.jpg?ex=665419de&is=6652c85e&hm=1e452a421a67efb6df563a35dbc2240f793bfbd2878bd53d78f53d735aef61ed&
-return
-
 :*:letsgo  ::https://tenor.com/view/senator-armstrong-senator-armstrong-lets-go-armstrong-go-senator-go-gif-25529777
 return
 
 :*:zuzhou  ::https://media1.tenor.co/images/d84721a0229fe4e27882e761ace37425/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=15703028
 return
 
-:*:itachio0o  ::https://cdn.discordapp.com/attachments/833330336708165652/973576011071496242/unknown.png?ex=6653e091&is=66528f11&hm=2a427d519a9d49496bc383d819a057bd623cb131ae5ad4e0f0d82a2a2e6fa00a&
-return
-
-:*:1000o0o  ::https://cdn.discordapp.com/attachments/833330336708165652/973474610848862289/unknown.png?ex=66542ae1&is=6652d961&hm=25359afbf30d54caa80e30ac1cc14dd27a015dde02aaa32550723c8d117a1e73&
-return
-
-:*:chichishui  ::https://cdn.discordapp.com/attachments/833330336708165652/969535443165130843/Screenshot_20220429-174717_WeChat.jpg?ex=6653adfe&is=66525c7e&hm=5a382117c354c6c942ffac4f0911b0b271ecaba447a76b4ba2fd111fbcbc4f8a&
-return
-
-:*:laohuang  ::https://cdn.discordapp.com/attachments/833330336708165652/967455506983710760/unknown.png?ex=665405e7&is=6652b467&hm=0adcb13c316ca445978d97349dca38067e1735cb6ca8420c55313ccd6b4e6e24&
-return
-
-:*:brain  ::https://cdn.discordapp.com/attachments/833330336708165652/969403680224862298/unknown.png?ex=6653dc08&is=66528a88&hm=f8f0387364214107f78b117ea10e8c5dd49f9276d5c55940b9cc26381c564676&
-return
-
-:*:gf  ::https://cdn.discordapp.com/attachments/833330336708165652/957303314003951686/Screenshot_2022-03-26-23-41-15-391_com.ilike.cartoon.jpg?ex=665400ef&is=6652af6f&hm=882e1498acbc7f4cd593c1fc1fde1f6c1a4aca76405017955227395ceff0225d&
-return
 
 :*:rap  ::https://tenor.com/view/tf2sfm-tf2spy-spy-rap-tf2spy-rap-rap-gif-19542737
 return
 
-:*:huilu  ::https://cdn.discordapp.com/attachments/833330336708165652/948086973258666084/IMG_20220301_131855.jpg?ex=66536f0d&is=66521d8d&hm=0c2c96e0ed179480514207d503dae814c0068fa8f19386d9551867f251fc6307&
-return
-
-:*:weileoppai  ::https://cdn.discordapp.com/attachments/833330336708165652/948086973258666084/IMG_20220301_131855.jpg?ex=66536f0d&is=66521d8d&hm=0c2c96e0ed179480514207d503dae814c0068fa8f19386d9551867f251fc6307&
-return
-
-:*:doushilaji  ::https://cdn.discordapp.com/attachments/833330336708165652/929757889172754452/IMG_20220109_232544.jpg?ex=6653fd42&is=6652abc2&hm=11cc5dc56b2b8de542e4bb1fa41919f7caf48432513c57d069b96b22f9800c92&
-return
-
-:*:saizuili  ::https://cdn.discordapp.com/attachments/833330336708165652/929757165080682586/IMG_20220109_232246.jpg?ex=6653fc96&is=6652ab16&hm=19ba3ec3a3f3957457ff72a78f6ceb0e957a858af7493a398ce964ac7a08185f&
-return
-
-:*:zhoubaba  ::https://cdn.discordapp.com/attachments/833330336708165652/929754393262301184/IMG_20220109_231147.jpg?ex=6653fa01&is=6652a881&hm=c6aae8f9097a6bd40bcf3f3145f1c066e8bc4ebac597a07e73b042a78aff3229&
-return
-
-:*:danaizi  ::https://cdn.discordapp.com/attachments/833330336708165652/925770782179721226/Screenshot_2021-12-29-23-22-18-601_com.qq.ac.android.jpg?ex=6653fc7a&is=6652aafa&hm=d014a9a288bde89fc24e3aa8bac9708fe6c567c4f5a15b16e3a67c815be53da4&
-return
-
-:*:shele  ::https://cdn.discordapp.com/attachments/833330336708165652/921352440928960562/FB_IMG_1639736944922.jpg?ex=6653bb93&is=66526a13&hm=1bdeeb0fc2dd8cd6c1879d00bcd6d6fc6e23a69390cf284a8614fea974cd66c0&
-return
-
-:*:fcku  ::https://cdn.discordapp.com/attachments/833330336708165652/918178849202765855/unknown.png?ex=66540d70&is=6652bbf0&hm=89681175d476a9c451b36362864e2e711282d28b50f6cc484ee425c792ebdc9d&
-return
 
 :*:wojiusese  ::https://img.nga.178.com/attachments/mon_202110/10/l2Qnafp-go3zK28T1kSgo-o6.jpg
 return
 
-:*:gsnohorny  ::https://cdn.discordapp.com/attachments/833330336708165652/914760694451290112/FB_IMG_1638166205365.jpg?ex=66537b88&is=66522a08&hm=c731729a8b90b7c01f3cc2e5a5b2b44f8d3effc98b4bbbc07eb5fb27d6d4206c&
-return
-
-:*:meijiaowo  ::https://discord.com/channels/774154428093169684/833330336708165652/909741245469974589
-return
-
-:*:xjpvpn  ::https://cdn.discordapp.com/attachments/833330336708165652/908307358432780308/IMG_20211111_184840.jpg?ex=6653bc65&is=66526ae5&hm=699311568d4a575d975de0e10e51b472883247526a8d63e499e55452b42e7483&
-return
-
-:*:welcometomy  ::https://cdn.discordapp.com/attachments/833330336708165652/902422998479433758/246657576_6502096376530696_5971586155466781477_n.png?ex=66536c29&is=66521aa9&hm=4217bb53129fa55e462016546dd1822fef28cbb3ffed84e85dfe8da5721a5b01&
-return
-
-:*:lookatyou  ::https://cdn.discordapp.com/attachments/833330336708165652/887536089747828806/look_at_you.jpg?ex=6653f9e5&is=6652a865&hm=498ad2ec53f489bee742b2634712212cf9294709c1073eaafa5581adc15c0987&
-return
-
-:*:gaolinmie  ::https://cdn.discordapp.com/attachments/916331440747188234/1061592762882981949/facebook_1673173831541_7017799694331281669.jpg?ex=663b544e&is=663a02ce&hm=6ab59dd1a9ce9448d5a2886be3ee924b9fc3b9ab8bb2508d4cdb45e899c460ea&
-return
-
-:*:zuipao  ::https://cdn.discordapp.com/attachments/833330336708165652/1075230730826817606/1676425324764.jpg?ex=663ad8a7&is=66398727&hm=1927edd88a5c46b900d2402a8682514d22d3ead985955d35697f8cef9aa48b53&
-return
-
-:*:lowres  ::https://cdn.discordapp.com/attachments/833330336708165652/1075677785990893618/1676531827034.jpg?ex=663b2781&is=6639d601&hm=ce759fc727403c42ee8044f365bec85e92914ac10db8eb8bd58bef07e728bce4&
-return
-
-:*:porn  ::https://cdn.discordapp.com/attachments/833330336708165652/1075677980988280893/1675310926519.jpg?ex=663b27af&is=6639d62f&hm=1e84d32e3f835aeada251345883dc1f9f729d67b7facf59295d9640025821fc4&
-return
-
-:*:boobcchi  ::https://cdn.discordapp.com/attachments/833330336708165652/1075678166305214494/1675310842099.jpg?ex=663b27db&is=6639d65b&hm=c01a70ba575e966083e366dfdfd49938c57928ab6911e2ade7a63de04eef0d2a&
-return
-
-:*:lingrenpingjing  ::https://cdn.discordapp.com/attachments/817077460142784542/1076140999639830568/facebook_1676642396456_7032347910028927885.jpg?ex=663adca8&is=66398b28&hm=1937b0e620cb26127ddaccd1424d88be9cf0f6f507af055e8bff7473fc4d71e6&
-return
-
-:*:recommendthis  ::https://cdn.discordapp.com/attachments/833330336708165652/1080676848721207316/1677723762788.jpg?ex=663ae23e&is=663990be&hm=dd4bb48b042ee89705f65b806b860785067b2f72167cf2ff34c5f6496eddb941&
-return
-
-:*:nguyen2  ::https://cdn.discordapp.com/attachments/833330336708165652/1081070688313548850/1677817631938.jpg?ex=663aff89&is=6639ae09&hm=d1b3d2ba7821c37ba4f368d8c3aa5e1718a56a80862b4fa2b355e5bd12de89e8&
-return
-
-:*:skillissue  ::https://cdn.discordapp.com/attachments/833330336708165652/1081070799311601774/1677817709533.jpg?ex=663affa3&is=6639ae23&hm=9ca04518e876a7521e713569ef832477b92e0cfeac2fefd551276d6218f7fc2c&
-return
-
-:*:linuxuser  ::https://cdn.discordapp.com/attachments/833330336708165652/1081158247957925918/1677817648674.jpg?ex=663b5115&is=6639ff95&hm=caac183dcb8469df202689292589820a0bcaed02bd6717fdb992a4c7174e4407&
-return
-
-:*:chuidehaibucuo  ::https://cdn.discordapp.com/attachments/916331440747188234/1086972549285548032/image.png?ex=663b6012&is=663a0e92&hm=eae57976f1114ade5523bec8f21a931d40239ce6c48b5944c0dca973af57e2f4&
-return
-
-:*:dadandexiangfa  ::https://cdn.discordapp.com/attachments/817077460142784542/1100022450776985640/FB_IMG_1682336140957.jpg?ex=663b63bd&is=663a123d&hm=3e9e4c67c70cfdafda6a78055d4ccdc4b214baca082cf33260cdec8964c6ec01&
-return
-
-:*:popout  ::https://cdn.discordapp.com/attachments/833330336708165652/1100430901365723248/image.png?ex=663ae5e3&is=66399463&hm=639ddfa81b7761fa22709ede131e6aa7473725e7489b5b531eff65f8cfa55846&
-return
-
-:*:chinapig  ::https://cdn.discordapp.com/attachments/833330336708165652/1112214276623585290/image.png?ex=663aeb43&is=663999c3&hm=08596850692db43536107354f0e3e8945ea6493a8a83cafe6b909048041cb251&
-return
-
-:*:giveherface  ::https://cdn.discordapp.com/attachments/833330336708165652/1115195060821164102/Screenshot_20230605-162624.jpg?ex=663b3755&is=6639e5d5&hm=f4628ae87e7913d1af76ca10104d1468e4207b8013d46f68ab6548f42d607edd&
-return
-
-:*:jianggushi  ::https://cdn.discordapp.com/attachments/833330336708165652/1119658322698719292/Screenshot_20230618-000132.jpg?ex=663af952&is=6639a7d2&hm=a8e8860a22f79411c45a4cd23142d86032d4ab36edc6434b26f598b078b5b6ad&
-return
-
-:*:bubaozhadebumai  ::https://cdn.discordapp.com/attachments/833330336708165652/1123650076053622845/Screenshot_20230629-002317_Lite.jpg?ex=663afe6e&is=6639acee&hm=1e3d211b9ffcc662b504154ec9e71f20ce457ea0c3a3bba7440362ab88b74798&
-return
-
-:*:linman  ::https://cdn.discordapp.com/attachments/833330336708165652/1123650123117891644/Screenshot_20230629-002304_Lite.jpg?ex=663afe79&is=6639acf9&hm=a94db545c690b9842616199dd46312c0a720de6f249d80af185423daefcb5459&
-return
-
-:*:suckmydick  ::https://cdn.discordapp.com/attachments/833330336708165652/1075677766453833788/1676523758526.jpg?ex=663b277c&is=6639d5fc&hm=8c47225fd815b1eb5284dade1e76911c630600ce90b8db9f269dd23ea401ffd3&
-return
-
-:*:nigga  ::https://cdn.discordapp.com/attachments/833330336708165652/1075677897194471514/1676028049878.jpg?ex=663b279b&is=6639d61b&hm=f39fea44cef6b5531ba9b436d82fe0a1cbdf766fa3c14edd847eb2f232b9f77e&
-return
-
-:*:fk  ::https://cdn.discordapp.com/attachments/833330336708165652/1075677916815425636/1675857293505.jpg?ex=663b27a0&is=6639d620&hm=fee41a3e2e2819b54c32bf59bed372da0d192f5d68b7f617c5a63ca1693bb0e1&
-return
-
-:*:getsomehelp  ::https://cdn.discordapp.com/attachments/833330336708165652/1075678109237522452/1675310870248.jpg?ex=663b27ce&is=6639d64e&hm=32514dae539e8e1ffdf31935ba9d5fb182e5d930e6c7b51415c1c5c2e2a3f3e2&
-return
 
 :*:blackcard  ::https://tenor.com/en-GB/view/kanna-kamui-chloe-black-card-rich-hotdog-gif-23044743
 return
@@ -159,32 +24,11 @@ return
 :*:kfcman  ::https://www.youtube.com/watch?v=X7Rdu2pkSXs&t=19
 return
 
-:*:;d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png?ex=662f984c&is=662e46cc&hm=f1362eef68f06422e4dd8a4d39979e9d151655b036717b730a4001bca992cc3a&
-return
 
-:*:chunyao  ::https://cdn.discordapp.com/attachments/817077460142784542/1222885035917709373/FB_IMG_1711628900301.jpg?ex=6617d770&is=66056270&hm=52223eb1d5003769efdcfd0984c1cfec3be2c31e74bbba88c89f5d32fd5ca1fd&
-return
 
 :*:twisthead  ::http://pansci.asia/wp-content/uploads/2020/08/38878a2b03c06435b9fe45c2eb2d9d10.gif
 return
 
-:*:powerd  ::https://cdn.discordapp.com/attachments/774297339698348052/1212282994652352553/facebook_1709101179516_7168489913650430882.jpg?ex=65f14585&is=65ded085&hm=55152d367d925770b24a8087ee83f5ef0e68338dca6bbd19ccab95b27e02bd11&
-return
-
-:*:niyihouchuanzhege  ::https://cdn.discordapp.com/attachments/817077460142784542/1209740489926910012/image0.jpg?ex=65e805a0&is=65d590a0&hm=46eebad8bb2cea8fbd52c96319422e646bd21bda8e50d5bf1db84e32af16b786&
-return
-
-:*:visionpro  ::https://cdn.discordapp.com/attachments/797580187302756382/1206151600914042880/facebook_1707639334344_7162358490599331830.jpg
-return
-
-:*:popcorn  ::https://cdn.discordapp.com/attachments/833330336708165652/1149284194091012188/image.png?ex=6653b210&is=66526090&hm=06dee98bc2b4ebe619237292afa0985499c0bd62c0cf32df8abe8776d3be010e&
-return
-
-:*:magic  ::https://cdn.discordapp.com/attachments/1030513303711142000/1030513304055062588/unknown.png
-return
-
-:*::d  ::https://cdn.discordapp.com/attachments/1176505680614662244/1176505681055055943/image.png
-return
 
 :*:wdf  :: https://tenor.com/view/what-the-fuck-what-the-what-celebrate-midnight3am-vacation-mode-gif-3541721899821803002
 return
@@ -201,83 +45,15 @@ return
 :*:net  ::ncpa.cpl
 return
 
-:*:techbender  ::https://cdn.discordapp.com/attachments/797580187302756382/1179611381834731590/linustech-20231130-0001.mp4
-return
-
-:*:terrorist  ::https://cdn.discordapp.com/attachments/1162034653104984065/1189584028781776956/ra2_trsticon.png
-return
-
-:*:gtamy  ::https://cdn.discordapp.com/attachments/817077460142784542/1182664085943373925/408052207_1094778944865707_5534971521251263899_n.mp4
-return
-
-:*:mav  ::https://cdn.discordapp.com/attachments/817077460142784542/1181578757170008105/mgagmy-20231205-0001.jpg
-return
 
 :*:konek  ::https://v.redd.it/2yg3r06q3f4c1/DASH_360.mp4
 return
 
-:*:allahbird  ::https://cdn.discordapp.com/attachments/774174877661134889/1180553919194222622/Allahu_akbar_bird.mp4
-return
-
-:*:engine  ::https://cdn.discordapp.com/attachments/817077460142784542/1180561388649861161/407282889_187147114462457_7041883092115045575_n.mp4
-return
-
-:*:ema  ::https://cdn.discordapp.com/attachments/774297339698348052/1175606336923373598/402878557_325827886815789_6911645422411060794_n.png
-return
-
-:*:whyyoutube  ::https://cdn.discordapp.com/attachments/797580187302756382/1175581372648259715/facebook_1700350830664_7131788290460278438.jpg
-return
-
-:*:pinklife  ::https://cdn.discordapp.com/attachments/774297339698348052/1171697044512047145/facebook_1699424738432_7127903978107580549.jpg
-return
-
-:*:chemical  ::https://cdn.discordapp.com/attachments/817077460142784542/1171670768636133456/1307253490-1-16.mp4
-return
-
-:*:smlj  ::https://cdn.discordapp.com/attachments/774297339698348052/1171465322985959454/image0.png
-return
-
-:*:a  ::https://cdn.discordapp.com/attachments/775009221758287913/1171454235909558302/facebook_1699366848817_7127661171463334005.jpg
-return
-
-:*:gpucar  ::https://cdn.discordapp.com/attachments/797580187302756382/1169832098148925440/facebook_1698980088203_7126038979872806811.jpg
-return
-
-:*:lens  ::https://cdn.discordapp.com/attachments/774297339698348052/1169925053354360832/facebook_1699002262519_7126131985693427465.jpg
-return
-
-:*:silema  ::https://cdn.discordapp.com/attachments/817077460142784542/1167698104104005662/dawei3055-20231028-0001.mp4
-return
-
-:*:printer  ::https://cdn.discordapp.com/attachments/797580187302756382/1167748657584541756/facebook_1698483363121_7123955563874853912.jpg
-return
-
-:*:tangseng  ::https://cdn.discordapp.com/attachments/774297339698348052/1166652743277084682/facebook_1698222083657_7122859678373101103.jpg
-return
-
-:*:nigger  ::https://cdn.discordapp.com/attachments/774297339698348052/1165166196019171448/Screenshot_2023-10-21-13-51-05-71_1c337646f29875672b5a61192b9010f9.jpg
-return
-
-:*:actpro  ::https://cdn.discordapp.com/attachments/774297339698348052/1164504132011438140/facebook_1697709811098_7120711051527939898.jpg
-return
-
-:*:nopower  ::https://cdn.discordapp.com/attachments/797580187302756382/1164862048853819463/facebook_1697795137245_7121068935330146080.jpg
-return
-
-:*:yisheng  ::https://cdn.discordapp.com/attachments/774177189955895317/1164475190605004841/facebook_1697702907889_7120682097372613251.jpg
-return
-
-:*:getgay  ::https://cdn.discordapp.com/attachments/797580187302756382/1164451633225289768/FB_IMG_1697697192407.jpg
-return
-
-:*:thed  ::https://cdn.discordapp.com/attachments/774297339698348052/1164202328384086066/facebook_1697637856638_7120409252652037387.jpg
-return
 
 :*:babyvape  ::https://vxtwitter.com/AdamPadilla/status/901223323010555904
 return
 
-:*:vape  ::https://cdn.discordapp.com/attachments/817077460142784542/1163064004567113769/image0-1.jpg
-return
+
 
 :*:klee  ::https://tenor.com/view/klee-genshin-impact-loli-cute-red-gif-20558953
 return
@@ -285,7 +61,7 @@ return
 :*:cute  ::https://tenor.com/view/rio-cute-blue-a-gif-11365831378990912212
 return
 
-:*:theworldgif  ::https://media.discordapp.net/attachments/833330336708165652/1139741503527321720/received_829174368650490.gif
+:*:theworld  ::https://media.discordapp.net/attachments/833330336708165652/1139741503527321720/received_829174368650490.gif
 return
 
 :*:eatgrass  ::https://tenor.com/view/seseren-blue-archive-gif-27680294
@@ -294,7 +70,7 @@ return
 :*:money  ::https://tenor.com/view/seseren-gif-26509266
 return
 
-:*:youduncome  ::https://tenor.com/view/mikamo-neru-tendou-arisu-aris-alice-blue-archive-gif-27523891
+:*:eye2eye  ::https://tenor.com/view/mikamo-neru-tendou-arisu-aris-alice-blue-archive-gif-27523891
 return
 
 :*:handjob  ::https://tenor.com/view/blue-archive-gif-25174427
@@ -306,143 +82,27 @@ return
 :*:okbye  ::https://tenor.com/view/hiyori-blue-archive-tsuchinaga-bye-ok-bye-gif-1088493214539371492
 return
 
-:*:shewendaoqian  ::https://cdn.discordapp.com/attachments/775009221758287913/1162904984250220544/facebook_1697328545980_7119111909719853176.jpg
-return
 
-:*:kenan  ::https://cdn.discordapp.com/attachments/817077460142784542/1162754092951683154/22bcb4c6-4509-4150-87dd-6f59b6032fad.mp4
-return
-
-:*:shopeemassage  ::https://cdn.discordapp.com/attachments/774177189955895317/1162675067528949861/Screenshot_20231014_165502_Facebook.jpg
-return
-
-:*:son  ::https://cdn.discordapp.com/attachments/817077460142784542/1160507637683736606/facebook_1696756973901_7116714562662602651.jpg
-return
 
 :*:trumpanime  ::https://youtu.be/5jItEnE8VFA
 return
 
-:*:whyyougetfired  ::https://cdn.discordapp.com/attachments/774297339698348052/1160302864816681020/facebook_1696708149011_7116509776230942580.jpg
-return
 
-:*:inmemories  ::https://cdn.discordapp.com/attachments/774297339698348052/1159698845010231347/facebook_1696564145332_7115905781023863802.jpg
-return
 
-:*:tastethefeeling  ::https://cdn.discordapp.com/attachments/817077460142784542/1160173140668862484/383691850_326333286436347_3093969585418491004_n.mp4
-return
-
-:*:duntellelon  ::https://cdn.discordapp.com/attachments/817077460142784542/1160151524610166804/boost.nerd-20231007-0001.mp42.mp4
-return
-
-:*:dasauto  ::https://cdn.discordapp.com/attachments/817077460142784542/1159495516346916896/no.drift.no.fun-20231005-0001.mp4
-return
-
-:*:64  ::https://cdn.discordapp.com/attachments/916331440747188234/1159122748543611010/facebook_1696426790689_7115329673896578201.jpg
-return
-
-:*:checkip  ::https://cdn.discordapp.com/attachments/797580187302756382/1157874363631161384/384512184_717145960441220_5866095273945322826_n.png
-return
-
-:*:yeeting  ::https://cdn.discordapp.com/attachments/774297339698348052/1158208300219899904/facebook_1696208772245_7114415238264099242.jpg
-return
-
-:*:shoudou  ::https://cdn.discordapp.com/attachments/833330336708165652/1061602415071219788/image0.jpg
-return
-
-:*:qidong  ::https://cdn.discordapp.com/attachments/775009221758287913/1155913600913903796/image.png
-return
-
-:*:genshinrope  ::https://cdn.discordapp.com/attachments/775009221758287913/1155812328495927336/379466542_353458193687165_4617075102238484894_n.mp4
-return
 
 :*:attack  ::https://tenor.com/view/attack-penguin-king-the-super-mario-bros-movie-forward-get-them-gif-26913735
 return
 
-:*:scanqr  ::https://cdn.discordapp.com/attachments/630553822036623370/1139701679370027119/srk.gif
-return
-
-:*:fakecv  ::https://cdn.discordapp.com/attachments/817077460142784542/1155343375894065232/paw.exe-20230924-0001.mp4
-return
-
-:*:unwilling  ::https://cdn.discordapp.com/attachments/916331440747188234/1154562536520302592/facebook_1695339552433_7110769466129288626.jpg
-return
-
-:*:milf  ::https://cdn.discordapp.com/attachments/774297339698348052/1153936287150125156/image0.jpg
-return
 
 :*:jiubudaole  ::https://youtu.be/GV3_NqxEeZo
 return
 
-:*:xionghuai  ::https://cdn.discordapp.com/attachments/833330336708165652/888250473050685450/unknown.png
-return
 
-:*:warning  ::https://cdn.discordapp.com/attachments/833330336708165652/1137082734355951737/facebook_1691172033850_7093289626268228849.jpg
-return
-
-:*:noexp  ::https://cdn.discordapp.com/attachments/774297339698348052/1136809787967950898/facebook_1691106969557_7093016726844620331.jpg
-return
-
-:*:engong  ::https://cdn.discordapp.com/attachments/775009221758287913/1133948609092669510/facebook_1690424809161_7090155538766438455.jpg
-return
-
-:*:beer  ::https://cdn.discordapp.com/attachments/817077460142784542/1133745427452268664/world_of_technology_24-20230726-0002.mp4
-return
-
-:*:dagaizhemeda  ::https://cdn.discordapp.com/attachments/774297339698348052/1132626838699647046/362217362_629727115920784_4116925923969322106_n.png
-return
-
-:*:lovebird  ::https://cdn.discordapp.com/attachments/797580187302756382/1132165020554375289/facebook_1689999564840_7088371934808063713.jpg
-return
-
-:*:videosettings  ::https://cdn.discordapp.com/attachments/797580187302756382/1122364476814000178/FB_IMG_1687662822262.jpg
-return
-
-:*:nvidialol  ::https://cdn.discordapp.com/attachments/797580187302756382/1122752042285404160/356030937_1687296148404334_4326870641399305280_n.png
-return
 
 :*:elontwitter  ::https://cdn.discordapp.com/attachments/797580187302756382/1124965917592387594/Fz_nMI_WAAE-cwD.png
 return
 
-:*:programmingracing  ::https://cdn.discordapp.com/attachments/797580187302756382/1125800474281525318/facebook_1688482142509_7082007404257544666.jpg
-return
 
-:*:lttpc  ::https://cdn.discordapp.com/attachments/797580187302756382/1127760574500048946/facebook_1688949467830_7083967508719105750.jpg
-return
-
-:*:elon  ::https://cdn.discordapp.com/attachments/797580187302756382/1127986873097261136/facebook_1689003421731_7084193807781289927.jpg
-return
-
-:*:trash  ::https://cdn.discordapp.com/attachments/797580187302756382/1128504160535457882/facebook_1689126752449_7084711094305077500.jpg
-return
-
-:*:current  ::https://cdn.discordapp.com/attachments/797580187302756382/1128532955225141358/facebook_1689133618224_7084739891453122155.jpg
-return
-
-:*:cnai  ::https://cdn.discordapp.com/attachments/797580187302756382/1128715347399282738/1120511759_nb3-1-16.mp4
-return
-
-:*:usbc  ::https://cdn.discordapp.com/attachments/797580187302756382/1129986945125191782/facebook_1689480275424_7086193877136712598.jpg
-return
-
-:*:sudo  ::https://cdn.discordapp.com/attachments/797580187302756382/1130357819154104401/361256133_666719508820393_1276479637125149372_n.png
-return
-
-:*:backend  :::*:backend  ::https://cdn.discordapp.com/attachments/797580187302756382/1131103124799631392/facebook_1689746388692_7087310037080449212.jpg
-return
-
-:*:howtohacking  ::https://cdn.discordapp.com/attachments/797580187302756382/1131273507725131817/facebook_1689787013858_7087480431375708430.jpg
-return
-
-:*:wxp  ::https://cdn.discordapp.com/attachments/797580187302756382/1131556966775410738/1200023606-1-192.mp4
-return
-
-:*:cisco  ::https://cdn.discordapp.com/attachments/797580187302756382/1131940447858741391/facebook_1689946024689_7088147371139917771.jpg
-return
-
-:*:59fps  ::https://cdn.discordapp.com/attachments/797580187302756382/1131974175465148437/facebook_1689954066803_7088181102208203855.jpg
-return
-
-:*:nvidia  ::https://cdn.discordapp.com/attachments/797580187302756382/1132110591234941040/facebook_1689986589573_7088317512595721664.jpg
-return
 
 :*:lipstick  ::https://www.instagram.com/reel/CuMdqZlAzuG/?igshid=MTc4MmM1YmI2Ng==
 return
@@ -459,101 +119,17 @@ return
 :*:11yuyan  ::https://cdn.discordapp.com/attachments/817077460142784542/1130659176708853820/facebook_1689640545171_7086866097173199914.jpg
 return
 
-:*:awp  ::https://cdn.discordapp.com/attachments/817077460142784542/1130811581933039678/354206702_251954064104492_4823199433758890357_n.mp4
-return
 
-:*:cdrive  ::https://cdn.discordapp.com/attachments/774174877661134889/1111889604715495444/751386244-1-208.mp4
-return
-
-:*:xinjiangsong  ::https://cdn.discordapp.com/attachments/817077460142784542/1109426887601696849/twmeme.teacher-20230520-0001.mp4
-return
-
-:*:ora  ::https://cdn.discordapp.com/attachments/774174877661134889/1109449168507908258/gy_star230517.gif
-return
-
-:*:kaching  ::https://cdn.discordapp.com/attachments/774174877661134889/1107196426938761236/image.png?ex=664e3cc6&is=664ceb46&hm=2afe0f13048556ba0ebaca49e235a4ab44debd15490b741d604729653df21404&
-return
 
 :*:psu  ::https://tenor.com/view/gigabyte-psu-gamers-nexus-pc-bomb-planted-gif-22845602
 return
 
-:*:prankrick  ::https://cdn.discordapp.com/attachments/838033006470889562/1003904030826844230/4k_rick_roll_Sporadic.webm
-return
 
-:*:prankmp4  ::https://cdn.discordapp.com/attachments/774174877661134889/1104780325403508859/based_1.webm
-return
-
-:*:ainvquan  ::https://cdn.discordapp.com/attachments/797580187302756382/1102902033998172240/facebook_1683022726054_7059108951982405383.jpg
-return
-
-:*:zhezhongren  ::https://cdn.discordapp.com/attachments/774297339698348052/1102890786640637993/344399276_1347554549142949_932377737236814486_n.png
-return
 
 :*:fashengshenmeshile  ::https://youtu.be/TlT4fSfJLFg
 return
 
-:*:gscute  ::https://cdn.discordapp.com/attachments/775009221758287913/1101183563338104832/1109522451-1-208.mp4
-return
 
-:*:robbank  ::https://cdn.discordapp.com/attachments/774297339698348052/1101132548345712722/Desktop_2023.04.27_-_21.05.13.06_-_Trim.mp4
-return
-
-:*:stealthcar  ::https://cdn.discordapp.com/attachments/817077460142784542/1101110357059182652/FB_IMG_1682595546998.jpg
-return
-
-:*:cream  ::https://cdn.discordapp.com/attachments/774174877661134889/896009696295677972/gozante.mp4
-return
-
-:*:shankupaolu  ::https://cdn.discordapp.com/attachments/775009221758287913/1100597992379125760/image.png
-return
-
-:*:metaverse  ::https://cdn.discordapp.com/attachments/775009221758287913/1100782156936126564/2023_4_26_9_54_39.png
-return
-
-:*:yuanyuzhou  ::https://cdn.discordapp.com/attachments/775009221758287913/1100782156936126564/2023_4_26_9_54_39.png
-return
-
-:*:wd40  ::https://cdn.discordapp.com/attachments/774297339698348052/1100409091593089096/image.png
-return
-
-:*:helloharry  ::https://cdn.discordapp.com/attachments/797580187302756382/1099947739728592946/facebook_1682318361286_7056154632018847841.jpg
-return
-
-:*:jinqun  ::https://media.discordapp.net/attachments/774297339698348052/1098892087887409193/FB_IMG_1681962855130.jpg
-return
-
-:*:gsjojo  ::https://cdn.discordapp.com/attachments/775009221758287913/1099627304629583912/611ff389a21847a5a867a4867a7663ca.jpg
-return
-
-:*:cnbingli  ::https://cdn.discordapp.com/attachments/817077460142784542/1099568673003417670/FB_IMG_1682227957409.jpg{shift down}{enter}{shift up}{enter} https://cdn.discordapp.com/attachments/817077460142784542/1099568673263472670/FB_IMG_1682227962852.jpg{shift down}{enter}{shift up}{enter} https://cdn.discordapp.com/attachments/817077460142784542/1099568673544474634/FB_IMG_1682227965153.jpg{shift down}{enter}{shift up}{enter} https://cdn.discordapp.com/attachments/817077460142784542/1099568673800335480/FB_IMG_1682227968117.jpg{shift down}{enter}{shift up}{enter} https://cdn.discordapp.com/attachments/817077460142784542/1099568674064584714/FB_IMG_1682227942698.jpg {enter}
-return
-
-:*:gongde  ::https://cdn.discordapp.com/attachments/774174877661134889/1095929501701120091/RPReplay_Final1681264843.mp4
-return
-
-:*:rosege  ::https://cdn.discordapp.com/attachments/916331440747188234/1093519240369295471/image.png{shift down}{enter}{shift up}{enter}https://cdn.discordapp.com/attachments/916331440747188234/1093519273474920448/338425060_243181508077242_8941636957099513970_n.png{shift down}{enter}{shift up}{enter}https://cdn.discordapp.com/attachments/916331440747188234/1093519342529945681/340256406_757794209271630_1963625930292854963_n.png {enter}
-return
-
-:*:?  ::https://cdn.discordapp.com/attachments/774174877661134889/1090655692295241789/FB_IMG_1656517599766.jpg
-return
-
-:*:theworld  ::https://cdn.discordapp.com/attachments/774297339698348052/1087331350148829205/FB_IMG_1679289589765.jpg
-return
-
-:*:rtx  ::https://cdn.discordapp.com/attachments/797580187302756382/1085341591209783356/facebook_1678835989005_7041548504029957466.jpg
-return
-
-:*:911  ::https://cdn.discordapp.com/attachments/817077460142784542/1086657804682678283/Snapsave.app_335787125_1992062471000795_6928111740034668307_n.mp4
-return
-
-:*:gsqiqimp4  ::https://cdn.discordapp.com/attachments/775009221758287913/1086498251500425286/Snapsave.app_327946277_718991216404408_2515904207933872314_n.mp42.mp4
-return
-
-:*:advise  ::https://cdn.discordapp.com/attachments/774297339698348052/1085372823394066453/facebook_1678843432998_7041579726398667367.jpg
-return
-
-:*:chaohaoyong  ::https://media.discordapp.net/attachments/774174877661134889/1068070573944619068/firefox.webm
-return
 
 :*:budong  ::https://tenor.com/view/%E6%88%91%E7%9C%8B%E4%BD%A0%E6%98%AF%E5%AE%8C%E5%85%A8%E4%B8%8D%E6%87%82-gif-23078023
 return
@@ -561,51 +137,6 @@ return
 :*:rick  ::http://user208934.piee.pw/4snhsd
 return
 
-:*:bkads  ::https://cdn.discordapp.com/attachments/817077460142784542/1081953847402037320/Snapsave.app_332643899_1251303728796114_1798185755039945586_n.mp4
-return
-
-:*:allah  ::https://cdn.discordapp.com/attachments/817077460142784542/1081792616313663568/5cc380fbbd876a64.jpeg
-return
-
-:*:pagi2  ::https://cdn.discordapp.com/attachments/833330336708165652/1081428604321288232/315763116_5976113389065626_8855890868612148209_n.mp4
-return
-
-:*:pagi  ::https://cdn.discordapp.com/attachments/833330336708165652/1081428463250063420/315314512_5732084393537290_8985317342467579345_n.mp4
-return
-
-:*:kazhule  ::https://media.discordapp.net/attachments/774174877661134889/1063797543361859644/0f93ecc116f2e125.jpeg
-return
-
-:*:deathnote  ::https://cdn.discordapp.com/attachments/817077460142784542/1079088145615831080/332651946_216338267471312_501312442655008426_n.mp4
-return
-
-:*:osama  ::https://cdn.discordapp.com/attachments/774177189955895317/1074301916680560650/16762039292865334800273153415888.jpg
-return
-
-
-:*:cxkmp4  ::https://cdn.discordapp.com/attachments/775009221758287913/1076779144563662898/Snapsave.app_332187826_226899616436836_2995595937689613688_n.mp4
-return
-
-:*:bocchimp4  ::https://cdn.discordapp.com/attachments/775009221758287913/1076094669785681960/Facebook.mp4
-return
-
-:*:jidandian  ::https://cdn.discordapp.com/attachments/774174877661134889/1074210137641852948/facebook_1676182042133_7030417044049813955.jpg
-return
-
-:*:lzfmeme  ::https://cdn.discordapp.com/attachments/774297339698348052/1073531257159421962/facebook_1676020187102_7029738174844817831.jpg
-return
-
-:*:mandarin  ::https://cdn.discordapp.com/attachments/774297339698348052/1073542079747203092/329097332_1819805491736106_7787734486935035436_n.png
-return
-
-:*:op11  ::https://cdn.discordapp.com/attachments/797580187302756382/1073501216270716978/facebook_1676013023701_7029708129363318905.jpg
-return
-
-:*:coffindance  ::https://cdn.discordapp.com/attachments/774297339698348052/1072529152848166942/facebook_1675781267764_7028736074509899957.jpg
-return
-
-:*:heshinvzhuang  ::https://cdn.discordapp.com/attachments/817077460142784542/1069899670756790292/microsoft_yunxi_tts_testing.mp3
-return
 
 :*:dqmeirenjiuni  ::https://tenor.com/view/%E4%BD%8E%E6%B8%85-dissy-stop-flirt-laugh-gif-16347884
 return
@@ -619,8 +150,6 @@ return
 :*:dqnmjp  ::https://tenor.com/view/%E4%BD%8E%E6%B8%85-dissy-%E4%BD%A0%E9%98%BF%E5%AC%B7%E6%93%8A%E6%95%97-defeat-angry-gif-16347873
 return
 
-:*:nguyen  ::https://cdn.discordapp.com/attachments/833330336708165652/1066686517080236042/323868840_6581262935305710_1119865785100904429_n.png?ex=663b673b&is=663a15bb&hm=e01a5c0212d9d941d6c875fa361e64fa697f18030c7226f731e4e2c71d59793a&
-return
 
 :*:dqnmjb  ::https://tenor.com/view/maria-dissy-%E4%BD%8E%E6%B8%85-talking-chitchat-gif-16347814
 return
@@ -658,23 +187,6 @@ return
 :*:dqfinger  ::https://tenor.com/view/%E4%BD%8E%E6%B8%85%E7%A5%9E%E4%B9%8B%E6%89%8B-gif-24359542
 return
 
-:*:dqdanshen  ::https://cdn.discordapp.com/attachments/833330336708165652/1058366668365111356/image.png?ex=675cd685&is=675b8505&hm=c2ce92163e28c8d9ad91224f810f7d0559981a86952da6133e2a83dbfd739b6f&
-return
-
-:*:caishen  ::https://cdn.discordapp.com/attachments/774297339698348052/1066667109708480522/facebook_1674383645174_7022874020490877650.jpg
-return
-
-:*:yasuiqian  ::https://cdn.discordapp.com/attachments/774297339698348052/1066668632442146908/facebook_1674384010711_7022875553665049922.jpg
-return
-
-:*:nijiushitaderenla  ::https://cdn.discordapp.com/attachments/833330336708165652/1058378728301920306/image.png?ex=675ce1c0&is=675b9040&hm=46f6a4a8bc75cf1e530e769e8f0e742cf882c513fa9217a4b429f5986910b6b9&
-return
-
-:*:jirou2  ::https://cdn.discordapp.com/attachments/833330336708165652/1058366668365111356/image.png?ex=675cd685&is=675b8505&hm=c2ce92163e28c8d9ad91224f810f7d0559981a86952da6133e2a83dbfd739b6f&
-return
-
-:*:rock  ::https://cdn.discordapp.com/attachments/833330336708165652/1058365745941184552/image.png
-return
 
 :*:xjp  ::https://youtu.be/iYxGbdm4rxA
 return
@@ -682,44 +194,7 @@ return
 :*:redsun  ::https://youtu.be/swiGWilMqeQ
 return
 
-:*:hati2  ::https://cdn.discordapp.com/attachments/774297339698348052/1065458047289393152/facebook_1674095385035_7021664969833864973.jpg
-return
 
-:*:007meme  ::https://cdn.discordapp.com/attachments/774297339698348052/1065454989117497364/facebook_1674094656464_7021661913985856788.jpg
-return
-
-:*:haagendazs  ::https://cdn.discordapp.com/attachments/817077460142784542/1047113713137762334/904733177-1-192.mp4
-return
-
-:*:luffyshanks  ::https://cdn.discordapp.com/attachments/817077460142784542/1048830197283164260/facebook_1670130994326_7005037110033349954.jpg
-return
-
-:*:tripledamage  ::https://cdn.discordapp.com/attachments/817077460142784542/1050743978061987941/FB_IMG_1670587269294.jpg
-return
-
-:*:pizzameme2  ::https://cdn.discordapp.com/attachments/817077460142784542/1065097443223547984/facebook_1674009409080_7021304360542371354.jpg
-return
-
-:*:gay  ::https://cdn.discordapp.com/attachments/775009221758287913/1060822503951454268/Snapsave.app_321435013_551759220175231_2908411438872101058_n.mp4
-return
-
-:*:pokemonshoe  ::https://cdn.discordapp.com/attachments/817077460142784542/1059017145956188191/Snapsave.app_318786119_162502886479212_5491282056349965240_n.mp4
-return
-
-:*:pwmeme  ::https://cdn.discordapp.com/attachments/817077460142784542/1046347844044464208/facebook_1669538999289_7002554102881400540.jpg
-return
-
-:*:pizzameme  ::https://cdn.discordapp.com/attachments/774297339698348052/1048072854203269160/facebook_1669950429244_7004279765181268897.jpg
-return
-
-:*:power  ::https://cdn.discordapp.com/attachments/775009221758287913/1054697663343374407/facebook_1671529908730_7010904582306695826.jpg
-return
-
-:*:cutic  ::https://cdn.discordapp.com/attachments/817077460142784542/1049904236026151033/facebook_1670387069679_7006111167902950071.jpg?ex=675d0884&is=675bb704&hm=bd4459be6efbf6ec0be69c1fbb7bfb1322ec2f311d55638dd0be54de5b79fde6&
-return
-
-:*:amituofo  ::https://cdn.discordapp.com/attachments/817077460142784542/1049963360638222367/facebook_1670401157283_7006170255600121864.jpg
-return
 
 :*:xucaigif  ::https://tenor.com/view/cai-xcai-xucai-xu-k%E8%94%A1%E5%BE%90%E5%9D%A4-snap-dance-animation-basketball-gif-15317457
 return
@@ -2154,125 +1629,11 @@ return
 :*:bonk  ::https://tenor.com/view/pp-bonk-pp-bonk-no-horni-gif-19063679
 return
 
-:*:rebuy  ::https://cdn.discordapp.com/attachments/833330336708165652/894133942637170708/unknown.png
-return
-
-:*:youganyouke  ::https://cdn.discordapp.com/attachments/775009221758287913/894139243893518376/2021103162754.png?ex=66539bd0&is=66524a50&hm=fe5c70e721591e9c29f7137a2f8ed8a8d5c097d02fd4c4bdedc1cf4fb1b5734b&
-return
-
-:*:jinsixiaqiu  ::https://cdn.discordapp.com/attachments/775009221758287913/894139809742848060/unknown.png?ex=66539c56&is=66524ad6&hm=f5fb22f49900200afa14573c868c3408fc2b9f8359378135381c99cbf115c219&
-return
-
-:*:886  ::https://cdn.discordapp.com/attachments/775009221758287913/894281341921804288/FB_IMG_1633206508821.jpg?ex=66537766&is=665225e6&hm=02c93341685039c66059def0f705f7eed009a9ab4e3858d64266ae16e7e92be3&
-return
-
-:*:100rupiah  ::https://cdn.discordapp.com/attachments/833330336708165652/894387120398037012/unknown.png?ex=6653d9ea&is=6652886a&hm=a5f3021972886503b5c174ca3621a61c80a23e191f7e11d9e2050ca025eb35aa&
-return
-
-:*:newbieko  ::https://cdn.discordapp.com/attachments/833330336708165652/894386046240952392/unknown.png?ex=6653d8ea&is=6652876a&hm=703dbd4bbf884629a2556875ad3e7f67869568e0336dc96dfb542fc73115e4df&
-return
-
-:*:50shou  ::https://cdn.discordapp.com/attachments/833330336708165652/894384575801856040/unknown.png?ex=6653d78b&is=6652860b&hm=98cf391d9d40563d0eb11820ca52e7533dd019bb50d7900c3c5d4445e61b4c38&
-return
-
-:*:ryzen50  ::https://cdn.discordapp.com/attachments/833330336708165652/894384897836322866/unknown.png?ex=6653d7d8&is=66528658&hm=d1420742ffc558854e58eea04e61efdce78c235f10af524c95dd1adee5afd4f7&
-return
-
-:*:i950  ::https://cdn.discordapp.com/attachments/833330336708165652/894384593195634719/unknown.png?ex=6653d78f&is=6652860f&hm=08f96fe454c9547cdf7486f0624b35548cf7a2dbdf0a3b4a92bd13ee084ff74b&
-return
-
-:*:dell50  ::https://cdn.discordapp.com/attachments/833330336708165652/894384575801856040/unknown.png?ex=6653d78b&is=6652860b&hm=98cf391d9d40563d0eb11820ca52e7533dd019bb50d7900c3c5d4445e61b4c38&
-return
-
-:*:nonet  ::https://cdn.discordapp.com/attachments/833330336708165652/894428226703728650/bbk_made_network.png
-return
-
-:*:elonhmm  ::https://cdn.discordapp.com/attachments/833330336708165652/894429769570086932/unknown.png?ex=665401a2&is=6652b022&hm=30c0f2d39eb5a3c6fd8d016c526ee074e9813658145d18e906f40f9de0716368&
-return
-
-:*:elonthink  ::https://cdn.discordapp.com/attachments/833330336708165652/894441423573749780/unknown.png?ex=665363bd&is=6652123d&hm=fba1ddbe226473cae6f5c843a5f84e01d49d81f53db95b66d47775350c6b5ac5&
-return
-
-:*:elonyeah  ::https://cdn.discordapp.com/attachments/833330336708165652/894441700058083378/unknown.png?ex=665363ff&is=6652127f&hm=fec3c82da49c48560474aa42a66e73a356a6b0680b808f1a079af541e58fe207&
-return
-
-:*:elonlol  ::https://cdn.discordapp.com/attachments/833330336708165652/894441958418837525/unknown.png?ex=6653643c&is=665212bc&hm=53eeb16ea824f10d045f589fd213f48481b8de8ae9a7f49f05073ae6978f8900&
-return
-
-:*:elonrolleyes  ::https://cdn.discordapp.com/attachments/833330336708165652/894442134512480296/unknown.png?ex=66536466&is=665212e6&hm=1c34b376a53e3f4f756624a4b7bbbbf427e89d98b89b1f896cdbbcce89a6cfd7&
-return
-
-:*:elonskr  ::https://cdn.discordapp.com/attachments/833330336708165652/894442537937412106/unknown.png?ex=665364c6&is=66521346&hm=8a3b0814e30f27974c217928a8c329a4aaeb78eb2aace5b977e7d8d1d62bde08&
-return
-
-:*:yuanwang  ::https://cdn.discordapp.com/attachments/833330336708165652/894450492019724308/unknown.png?ex=66536c2f&is=66521aaf&hm=125a00ff39593af37d398758538c116146262facd352931289d3adbbaa3d1392&
-return
-
-:*:of  ::https://cdn.discordapp.com/attachments/833330336708165652/894452838040764436/unknown.png?ex=66536e5e&is=66521cde&hm=08436eec6e01e033855f5862054d69c983d236a05db2281cd1342235e408b094&
-return
-
-:*:hehehe  ::https://cdn.discordapp.com/attachments/833330336708165652/894459901072506890/unknown.png?ex=665374f2&is=66522372&hm=6b452f33b0103b7310e6f89c970ecf37a2dd661822244e7fc6cf0b9b2e43f232&
-return
-
-:*:jiao  ::https://cdn.discordapp.com/attachments/833330336708165652/894757072531505182/05102021-0924AM.mp4
-return
-
-:*:xidada  ::https://cdn.discordapp.com/attachments/833330336708165652/894759552686387260/unknown.png?ex=6653e345&is=665291c5&hm=302522042ee820da92974c8c07e5f02ed81e145b31e9eafb16a7273437ad6d1b&
-return
-
-:*:duibudui  ::https://cdn.discordapp.com/attachments/833330336708165652/894761290260701235/bbk_believe_xjp.png?ex=6653e4e3&is=66529363&hm=29f1b7e43b0f640d9c1f8a0e6a8bb8757fe20d51020e7619f0caf7da692c5173&
-return
-
-:*:gepi  ::https://cdn.discordapp.com/attachments/833330336708165652/894762248046805052/unknown.png?ex=6653e5c7&is=66529447&hm=a863ff5b9f16431a28fa28e183bde5f51881410ef9f91a29cd4cc5bb4f2316ec&
-return
-
-:*:ass  ::https://cdn.discordapp.com/attachments/833330336708165652/894762248046805052/unknown.png?ex=6653e5c7&is=66529447&hm=a863ff5b9f16431a28fa28e183bde5f51881410ef9f91a29cd4cc5bb4f2316ec&
-return
-
-:*:manis  ::https://cdn.discordapp.com/attachments/833330336708165652/894765088035192832/unknown.png?ex=6653e86c&is=665296ec&hm=ac72465441044d46d76279b0711f2bb88a448e649623a1d0612ca00200c273e1&
-return
-
-:*:nosee  ::https://cdn.discordapp.com/attachments/774297339698348052/894593095948197918/FB_IMG_1632120971792.jpg
-return
 
 :*:cum  ::https://tenor.com/view/mila-kunis-friends-with-benefits-gif-10666213
 return
 
-:*:papapa  ::https://media.discordapp.net/attachments/774177189955895317/832140380698312714/751562285654212628.gif
-return
 
-:*:breaker  ::https://cdn.discordapp.com/attachments/817077460142784542/894178153348616232/FB_IMG_1632120982403.jpg
-return
-
-:*:fbi  ::https://cdn.discordapp.com/attachments/817077460142784542/894172164775886898/FB_IMG_1545019721849.jpg
-return
-
-:*:address  ::https://cdn.discordapp.com/attachments/817077460142784542/894185545528381471/facebook_1633260832473_6850392442688122995.jpg
-return
-
-:*:gura2  ::https://media.discordapp.net/attachments/775009221758287913/888040546990428160/1212.gif
-return
-
-:*:zhulaba  ::https://cdn.discordapp.com/attachments/833330336708165652/885895919881572402/IMG-20210910-WA0039.jpg?ex=6653f11e&is=66529f9e&hm=30372042785abbe95c1e6aa4f931ab0d9d67b3cf801f8c45591865c5a1a2bc77&
-return
-
-:*:guofen  ::https://cdn.discordapp.com/attachments/833330336708165652/885895862373453924/IMG-20210910-WA0040.jpg?ex=6653f110&is=66529f90&hm=34e88d0bfc1e6e0dbf1520ea82535350f7b02c19faf9ca6d612b69e78d983d8e&
-return
-
-:*:haoting  ::https://cdn.discordapp.com/attachments/833330336708165652/885895789400981544/IMG-20210910-WA0038.jpg?ex=6653f0ff&is=66529f7f&hm=117722331fdf715ba5c2399ffc3ab3f251d54e2e65dd27d12db548e6a0a60e8e&
-return
-
-:*:goutuizi  ::https://cdn.discordapp.com/attachments/833330336708165652/885893797068804166/IMG-20210910-WA0036.jpg?ex=6653ef24&is=66529da4&hm=da9db39adaa075d086c74a5b780f18f8b51d046863d8b1c79fef0c3d187402a8&
-return
-
-:*:sitdown  ::https://cdn.discordapp.com/attachments/833330336708165652/891012834379591720/IMG_20210925_012624.jpg
-return
-
-:*:kleeoppai  ::https://pbs.twimg.com/media/E_3YBhbVIAA5fVO.jpg https://twitter.com/tmzr_ovo_/status/1440595975626792960?s=09
-return
-
-:*:buhaochidebread  ::https://cdn.discordapp.com/attachments/833330336708165652/888998711961743391/unknown.png
-return
 
 :*:rick  ::https://imgur.com/NQinKJB
 return
@@ -2280,116 +1641,13 @@ return
 :*:gerry  ::https://tenor.com/view/hey-baby-gerry-alanguilan-creepy-smile-smirk-smile-gif-17011764
 return
 
-:*:lingdai  ::https://cdn.discordapp.com/attachments/833330336708165652/888467681920041010/Screenshot_2021-09-18-00-53-04-382_com.ilike.cartoon.jpg
-return
-
-:*:fangshou  ::https://cdn.discordapp.com/attachments/833330336708165652/888357444303069194/IMG_20210917_173501.jpg?ex=6653ab17&is=66525997&hm=806ad1afcd9acc3aa7ab2ada9e057e6c52c7c794b8498e468d4753a107b247d3&
-return
-
-:*:okokokmou  ::https://cdn.discordapp.com/attachments/833330336708165652/888306632256266300/okokokmou.png
-return
-
-:*:bupei  ::https://cdn.discordapp.com/attachments/774297339698348052/888257039770456094/unknown.png
-return
-
-:*:gsoof  ::https://pbs.twimg.com/media/FAESYJmVEAAaOIk.png
-return
-
-
-:*:gsfbi  ::https://cdn.discordapp.com/attachments/775009221758287913/961243743720198204/unknown.png
-return
-
-
-:*:tingxueba  ::https://cdn.discordapp.com/attachments/833330336708165652/893158998713434122/IMG_20210930_233434.jpg{enter}https://cdn.discordapp.com/attachments/833330336708165652/893159379287801997/IMG_20210930_233559.jpg{enter}https://cdn.discordapp.com/attachments/833330336708165652/893159558283935804/IMG_20210930_233655.jpg{enter}
-return
-
-
-:*:gsv  ::https://pbs.twimg.com/media/FAEgylyWUAID6Ix.jpg
-return
-
-:*:gshuangeiwo  ::https://media.discordapp.net/attachments/775009221758287913/890113760763707422/unknown.png
-return
-
-:*:wanshanglaizhao  ::https://cdn.discordapp.com/attachments/833330336708165652/890999790467440640/Screenshot_2021-09-25-00-34-31-250_com.ilike.cartoon.jpg?ex=66540d78&is=6652bbf8&hm=a360474f3bb1662402c1f7801a5db447aa1391b3c4e365b7794bdfecaeb1d541&
-return
-
-:*:555  ::https://cdn.discordapp.com/attachments/833330336708165652/891000113919565914/Screenshot_2021-09-25-00-35-59-955_com.ilike.cartoon.jpg?ex=66540dc5&is=6652bc45&hm=b3defd5926558b4751a04f0be7c83986dfd10040d0b1102da281cf693ba43727&
-return
-
-:*:babubaba  ::https://cdn.discordapp.com/attachments/833330336708165652/891001769889517578/Screenshot_2021-09-25-00-41-27-453_com.ilike.cartoon.jpg
-return
-
-:*:wangjile  ::https://cdn.discordapp.com/attachments/833330336708165652/891002008780304464/IMG_20210925_004336.jpg
-return
-
-:*:weishenme  ::https://cdn.discordapp.com/attachments/833330336708165652/891002975202443284/IMG_20210925_004727.jpg
-return
-
-:*:chenzhong  ::https://cdn.discordapp.com/attachments/833330336708165652/891003333790281738/Screenshot_2021-09-25-00-48-47-079_com.ilike.cartoon.jpg
-return
-
-:*:rabbitpoop  ::https://cdn.discordapp.com/attachments/833330336708165652/891005299241127936/Screenshot_2021-09-25-00-56-32-369_com.ilike.cartoon.jpg
-return
-
-:*:aaaaa  ::https://cdn.discordapp.com/attachments/833330336708165652/891007816586907658/IMG_20210925_010636.jpg
-return
-
-:*:zibei  ::https://cdn.discordapp.com/attachments/833330336708165652/891563343448535070/unknown.png
-return
-
-:*:wangbadan  ::https://cdn.discordapp.com/attachments/833330336708165652/891564212034367508/unknown.png
-return
-
-:*:fenglema  ::https://cdn.discordapp.com/attachments/833330336708165652/891576724654002196/aka_feng_le_ma.png
-return
-
-:*:didui  ::https://cdn.discordapp.com/attachments/833330336708165652/891576800285716520/aka_wo_huai_yi.png
-return
-
-:*:diduishili  ::https://cdn.discordapp.com/attachments/833330336708165652/891577290750820402/aka_wo_huai_yi_-_Copy.png?ex=663b208e&is=6639cf0e&hm=f685c78631585bbcb86ccc555d98b12e437a8413c75029a856b0ad04f83bc181&
-return
-
-:*:zouni  ::https://media.discordapp.net/attachments/833330336708165652/891699602460389388/Screenshot_2021-09-26-22-55-29-208_com.ilike.cartoon.jpg
-return
 
 :*:kleeshake  ::https://tenor.com/view/klee-genshin-impact-klee-genshin-impact-dance-klee-genshin-klee-dance-gif-21360724
 return
 
-:*:laogao  ::https://cdn.discordapp.com/attachments/833330336708165652/892603239453847582/unknown.png
-return
 
-:*:bufangqisese  ::https://media.discordapp.net/attachments/817077460142784542/892755824282308658/unknown.png
-return
 
-:*:mingju  ::https://cdn.discordapp.com/attachments/833330336708165652/892813237240877098/IMG_20210930_004037.jpg?ex=6653661f&is=6652149f&hm=0aeb51319a3a4c702fc40b403357f56da913a281f43f08a6ac3e49b8f54471cd&
-return
 
-:*:doushinila  ::https://cdn.discordapp.com/attachments/833330336708165652/892942553190645810/unknown.png?ex=6653de8e&is=66528d0e&hm=82aa053c3daaa6fbb451454e10c25d539f0aef480449487ab0802a6dd9b6eea1&
-return
-
-:*:beibi  ::https://cdn.discordapp.com/attachments/833330336708165652/892950287587897364/unknown.png
-return
-
-:*:fandui  ::https://cdn.discordapp.com/attachments/833330336708165652/892951814431993896/unknown.png?ex=6653e72e&is=665295ae&hm=404a6ae873ee9660e3bae75f12d7a5a162799a47c6ff39a38c54833c5b8f0079&
-return
-
-:*:bukeyi  ::https://cdn.discordapp.com/attachments/833330336708165652/892951487305617478/unknown.png?ex=6653e6e0&is=66529560&hm=47ba2a89dc33f6c41409559a9ad6d03e22e28ebf61fdd224e8134a8881239ca8&
-return
-
-:*:guanai  ::https://cdn.discordapp.com/attachments/833330336708165652/893164606514659388/IMG_20210930_235650.jpg?ex=6654049c&is=6652b31c&hm=de06f8ebd79d95b0755dfeaa75740728700b82ece8b213c9bfb007b4d10d3f30&
-return
-
-:*:buhaoyisi  ::https://media.discordapp.net/attachments/774174877661134889/893363901759098910/242726027_324830829439332_1889503973291652905_n.jpg?ex=66536cb8&is=66521b38&hm=f59d356091cef0a6845821b18e7e315c3e312be968bd02a6ce76677e08bafe63&
-return
-
-:*:like  ::https://media.discordapp.net/attachments/774297339698348052/893501280968925234/FB_IMG_1629595164037.jpg
-return
-
-:*:babi  ::https://cdn.discordapp.com/attachments/833330336708165652/880378710530883634/bukan_babi_biasa.jpg?ex=6653a551&is=665253d1&hm=4f56f28d0fea0056a72e40c755f96ec59a55adf8e6815474574dece7aa5a5a32&
-return
-
-:*:goushadiao  ::https://cdn.discordapp.com/attachments/833330336708165652/884734584326070292/c6iE8UwktN25Aki-WjGWpzZBJY-cHA3XhoWifNJf-PwcXMPyutxXtTrgHIdwn2KpgqTN8b9x6jQsins8A9e2gT-ezHLslIzFHdcE.png
-return
 
 ;===========================================================================================
 

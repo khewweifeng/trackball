@@ -1,7 +1,7 @@
 ﻿#SingleInstance, force
 
-; Press R to start/stop the left click toggle action
-R::
+; Press 4 to start/stop the left click toggle action
+4::
     Toggle := !Toggle
     if (Toggle) {
         SetTimer, ClickMouse, 25
@@ -49,13 +49,6 @@ F6::
     }
 return
 
-
-; Press F8 to execute holding E key
-F8::
-    Send, {e Down} 
-	Sleep, 1000 ; Adjust the sleep time as needed for the charge duration for 1 sec.
-	Send, {e Up}
-return
 
 
 ; Press F9 to execute holding E key - corin

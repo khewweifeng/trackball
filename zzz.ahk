@@ -1,8 +1,8 @@
 ﻿#SingleInstance, force
 
-; Press 4 to start/stop the left click toggle action
-4::
-    Toggle := !Toggle
+; Press  to start/stop the left click toggle action
+;4::
+   ; Toggle := !Toggle
     if (Toggle) {
         SetTimer, ClickMouse, 25
     } else {
@@ -15,8 +15,8 @@ ClickMouse:
 return
 
 
-; Press F4 to execute the left click action 4 times - soldier 11
-F4::
+; Press F5 to execute the left click action 4 times - soldier 11
+F5::
     Loop, 8
     {
         Sleep, 25  ; 0.025 seconds
@@ -26,8 +26,8 @@ F4::
 return
 
 
-; Press F5 to execute the left click action - charged attack 
-F5::
+; Press F6 to execute the left click action - charged attack 
+F6::
     Loop, 8
     {
         Sleep, 25  ; 0.025 seconds
@@ -38,8 +38,8 @@ F5::
 return
 
 
-; Press F6 to execute the left click action - charged attack corin
-F6::
+; Press F8 to execute the left click action - charged attack corin
+F8::
     Loop, 12
     {
         Sleep, 25  ; 0.025 seconds

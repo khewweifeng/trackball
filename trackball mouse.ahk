@@ -1231,6 +1231,14 @@ return
 clipboard := StrReplace(clipboard, "?sp_atk=", " ")
 return
 
+; Remove instagram tracker link
+
+!+i::
+clipboard := StrReplace(clipboard, "?utm_source=ig_web_copy_link&igsh=", " ")
+return
+
+
+
 !d::WheelDown ; alt d - scrollwheel down
 return
 

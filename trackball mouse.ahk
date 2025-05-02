@@ -1234,7 +1234,7 @@ return
 ; Remove instagram tracker link
 
 !+i::
-clipboard := StrReplace(clipboard, "?utm_source=ig_web_copy_link&igsh=", " ")
+clipboard := StrReplace(clipboard, "?utm_source=ig_web_copy_link", " ")
 return
 
 

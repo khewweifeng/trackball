@@ -1238,12 +1238,9 @@ clipboard := StrReplace(clipboard, "?utm_source=ig_web_copy_link&igsh=", " ")
 return
 
 
+!s::Send {WheelUp 3}    ; Alt + S scrolls up 3 notches
+!d::Send {WheelDown 3}  ; Alt + D scrolls down 3 notches
 
-!d::WheelDown ; alt d - scrollwheel down
-return
-
-!s::wheelup ; alt s - scrollwheel up
-return
 
 !r::send {rbutton} {wait 800} {up 3} {enter}{wait 800}{enter}
 return

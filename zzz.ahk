@@ -59,11 +59,8 @@ F9::
 return
 
 
-!d::WheelDown ; alt d - scrollwheel down
-return
-
-!s::wheelup ; alt s - scrollwheel up
-return
+!s::Send {WheelUp 3}    ; Alt + S scrolls up 3 notches
+!d::Send {WheelDown 3}  ; Alt + D scrolls down 3 notches
 
 
 :*:code  ::+;*+;+;+; {home} {right 5}{space 2}

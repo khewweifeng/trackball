@@ -15,8 +15,8 @@ ClickMouse:
 return
 
 
-; Press F5 to execute the left click action 4 times - soldier 11
-F5::
+; Press  to execute the left click action 4 times - soldier 11
+5::
     Loop, 8
     {
         Sleep, 25  ; 0.025 seconds
@@ -26,8 +26,8 @@ F5::
 return
 
 
-; Press F6 to execute the left click action - charged attack 
-F6::
+; Press  to execute the left click action - charged attack 
+6::
     Loop, 8
     {
         Sleep, 25  ; 0.025 seconds
@@ -38,8 +38,8 @@ F6::
 return
 
 
-; Press F8 to execute the left click action - charged attack corin
-F8::
+; Press  to execute the left click action - charged attack corin
+8::
     Loop, 12
     {
         Sleep, 25  ; 0.025 seconds
@@ -51,8 +51,8 @@ return
 
 
 
-; Press F9 to execute holding E key - corin
-F9::
+; Press  to execute holding E key - corin
+9::
     Send, {e Down} 
 	Sleep, 2000 ; Adjust the sleep time as needed for the charge duration for 2 sec.
 	Send, {e Up}

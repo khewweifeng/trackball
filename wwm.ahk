@@ -17,6 +17,21 @@ F3::
 return
 
 
+!4::
+    ; Hold down the Space bar
+    Send, {Space down}
+    Sleep, 2000   ; wait 2000 ms (2 seconds)
+    ; Release the Space bar
+    Send, {Space up}
+    Sleep, 100    ; short pause before tapping again
+    ; Tap the Space bar once
+    Send, {Space}
+    sleep, 5000
+
+return
+
+
+
 F9::
     Send, {s down}   ; hold down "s"
     Sleep, 500      ; wait 1000 ms (1 second)

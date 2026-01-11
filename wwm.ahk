@@ -1,6 +1,6 @@
 ﻿#SingleInstance, force
 
-F3::
+!4::
     ; Hold down the Space bar
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
@@ -17,7 +17,7 @@ F3::
 return
 
 
-!4::
+!1::
     ; Hold down the Space bar
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
@@ -26,8 +26,42 @@ return
     Sleep, 100    ; short pause before tapping again
     ; Tap the Space bar once
     Send, {Space}
-    sleep, 5000
+    
 
+return
+
+
+!2::
+    ; Hold down the Space bar
+    Send, {Space down}
+    Sleep, 2000   ; wait 2000 ms (2 seconds)
+    ; Release the Space bar
+    Send, {Space up}
+    Sleep, 100    ; short pause before tapping again
+    ; Tap the Space bar once
+    Send, {Space}
+    sleep, 6000
+	send, s
+	send, {space}
+	sleep, 2000
+	send, q
+	sleep, 2000
+	send, w
+	sleep, 1000
+	send, f
+	sleep, 4000
+	send, 1
+	sleep, 1000
+	send, 4
+	sleep, 6000
+	send, f
+	sleep, 2000
+	send, {w down}
+	sleep, 1000
+	send, {w up}
+	sleep, 2000
+	send, f
+		
 return
 
 

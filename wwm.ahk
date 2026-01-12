@@ -34,32 +34,43 @@ return
 
 
 !2::
+SendMode Input
 toggle := !toggle   ; flip toggle state each time is pressed
     while (toggle) {
-    ; Hold down the Space bar
+    
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
-    ; Release the Space bar
     Send, {Space up}
     Sleep, 100    ; short pause before tapping again
-    ; Tap the Space bar once
     Send, {Space}
-    sleep, 6000
+    sleep, 6000	
+	
 	send, {s down}
 	sleep, 300
+
 	send, {space}
 	send, {s up}
 	sleep, 2000
+
 	send, q
 	sleep, 2000
-	send, w
-	sleep, 1000
+	
+	send, q
+	sleep, 300
+
+	send, {w down}
+	sleep, 500
+	send, {w up}	
+
 	send, f
 	sleep, 4000
-	send, 1
-	sleep, 1000
-	send, 4
+
+	;send, 1
+	;sleep, 1000
+
+	;send, 4
 	sleep, 6000
+
 	send, f
 	sleep, 2000
 	send, {w down}
@@ -67,6 +78,7 @@ toggle := !toggle   ; flip toggle state each time is pressed
 	send, {w up}
 	sleep, 2000
 	send, f
+	sleep, 1000
 	}	
 return
 

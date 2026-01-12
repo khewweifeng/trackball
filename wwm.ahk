@@ -65,12 +65,7 @@ toggle := !toggle   ; flip toggle state each time is pressed
 	send, f
 	sleep, 4000
 
-	;send, 1
-	;sleep, 1000
-
-	;send, 4
-	sleep, 6000
-
+	
 	send, f
 	sleep, 2000
 	send, {w down}

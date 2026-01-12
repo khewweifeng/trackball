@@ -1,4 +1,6 @@
 ﻿#SingleInstance, force
+toggle := false   ; variable to track toggle state
+
 
 !4::
     ; Hold down the Space bar
@@ -32,6 +34,8 @@ return
 
 
 !2::
+toggle := !toggle   ; flip toggle state each time is pressed
+    while (toggle) {
     ; Hold down the Space bar
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
@@ -41,8 +45,10 @@ return
     ; Tap the Space bar once
     Send, {Space}
     sleep, 6000
-	send, s
+	send, {s down}
+	sleep, 300
 	send, {space}
+	send, {s up}
 	sleep, 2000
 	send, q
 	sleep, 2000
@@ -61,7 +67,7 @@ return
 	send, {w up}
 	sleep, 2000
 	send, f
-		
+	}	
 return
 
 

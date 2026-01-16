@@ -16,7 +16,7 @@ while (toggle){
 	send, q
 	sleep, 1000
     send, 4
-	sleep, 2000
+	sleep, 5000
 }
 return
 

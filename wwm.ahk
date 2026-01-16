@@ -2,7 +2,7 @@
 toggle := false   ; variable to track toggle state
 
 
-!4::
+^4::
 toggle := !toggle
 while (toggle){
     Send, {Space down}
@@ -21,7 +21,7 @@ while (toggle){
 return
 
 
-!1::
+^1::
     ; Hold down the Space bar
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
@@ -35,7 +35,7 @@ return
 return
 
 
-!2::
+^2::
 SendMode Input
 toggle := !toggle   ; flip toggle state each time is pressed
     while (toggle) {
@@ -80,27 +80,6 @@ toggle := !toggle   ; flip toggle state each time is pressed
 return
 
 
-
-F9::
-    Send, {s down}   ; hold down "s"
-    Sleep, 500      ; wait 1000 ms (1 second)
-    Send, {s up}     ; release "s"
-	
-send, {d down}
-	sleep, 500
-	send, {d up}
-	
-send, {w down}
-	sleep, 800
-	send, {w up}
-	send, f
-	
-send, {a down}
-	sleep, 800
-	send, {a up}
-	send, f	
-
-return
 
 
 

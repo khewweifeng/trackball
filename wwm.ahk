@@ -5,7 +5,6 @@ toggle := false   ; variable to track toggle state
 !4::
 toggle := !toggle
 while (toggle){
-    ; Hold down the Space bar
     Send, {Space down}
     Sleep, 2000   ; wait 2000 ms (2 seconds)
     ; Release the Space bar
@@ -17,7 +16,7 @@ while (toggle){
 	send, q
 	sleep, 1000
     send, 4
-	sleep, 1000
+	sleep, 2000
 }
 return
 

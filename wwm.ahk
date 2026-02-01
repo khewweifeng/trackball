@@ -21,6 +21,25 @@ while (toggle){
 return
 
 
+^5::
+toggle := !toggle
+while (toggle){
+    Send, {Space down}
+    Sleep, 2000   ; wait 2000 ms (2 seconds)
+    ; Release the Space bar
+    Send, {Space up}
+    Sleep, 100    ; short pause before tapping again
+    ; Tap the Space bar once
+    Send, {Space}
+    sleep, 9000
+	;send, q
+	;sleep, 2000
+    send, 4
+	sleep, 1000
+}
+return
+
+
 ^1::
     ; Hold down the Space bar
     Send, {Space down}

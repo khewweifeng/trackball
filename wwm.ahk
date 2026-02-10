@@ -2,23 +2,42 @@
 toggle := false   ; variable to track toggle state
 
 
+
 ^4::
 toggle := !toggle
-while (toggle){
-    Send, {Space down}
-    Sleep, 2000   ; wait 2000 ms (2 seconds)
-    ; Release the Space bar
-    Send, {Space up}
-    Sleep, 100    ; short pause before tapping again
-    ; Tap the Space bar once
-    Send, {Space}
-    sleep, 9000
-	;send, q
-	;sleep, 2000
-    send, 4
-	sleep, 1000
+
+if (toggle) {
+    lastQT := A_TickCount   ; track last Q→T sequence
+    while (toggle) {
+        ; --- Space sequence ---
+	sleep 2000
+        Send, {Space down}
+        Sleep, 2000
+        Send, {Space up}
+        Sleep, 100
+        Send, {Space}
+        Sleep, 10000
+
+        ; --- Press 4 ---
+        Send, 4
+        Sleep, 5000
+
+        ; --- Q→T sequence every 30s ---
+        if (!lastQT || (A_TickCount - lastQT >= 30000)) {
+            Send, q
+            Sleep, 3000
+            Send, t
+            lastQT := A_TickCount
+        }
+    }
 }
 return
+
+
+
+
+
+
 
 
 ^1::

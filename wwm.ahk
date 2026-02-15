@@ -35,7 +35,35 @@ return
 
 
 
+^5::
+toggle := !toggle
 
+if (toggle) {
+    lastQT := A_TickCount   ; track last Q→T sequence
+    while (toggle) {
+        ; --- Space sequence ---
+	sleep 2000
+        Send, {Space down}
+        Sleep, 2000
+        Send, {Space up}
+        Sleep, 100
+        Send, {Space}
+        Sleep, 15000
+
+        ; --- Press 4 ---
+        Send, 4
+        Sleep, 5000
+
+        ; --- Q→T sequence every 30s ---
+        if (!lastQT || (A_TickCount - lastQT >= 30000)) {
+            Send, q
+            Sleep, 3000
+            Send, t
+            lastQT := A_TickCount
+        }
+    }
+}
+return
 
 
 

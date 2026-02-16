@@ -69,16 +69,16 @@ return
 
 
 ^1::
-    ; Hold down the Space bar
-    Send, {Space down}
-    Sleep, 2000   ; wait 2000 ms (2 seconds)
-    ; Release the Space bar
-    Send, {Space up}
-    Sleep, 100    ; short pause before tapping again
-    ; Tap the Space bar once
-    Send, {Space}
-    
+Toggle := !Toggle 
+if (Toggle) { 
+SetTimer, PressF, 5000 
+} else { 
+SetTimer, PressF, Off 
+} 
+return 
 
+PressF: 
+Send, f 
 return
 
 

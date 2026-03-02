@@ -2,6 +2,21 @@
 toggle := false   ; variable to track toggle state
 
 
+; Ctrl+3 hotkey
+^3::
+    Toggle := !Toggle   ; flip toggle state
+
+    while (Toggle) {
+        Send, f
+        Sleep, 2000     
+        Send, {Space}
+        Sleep, 2000
+	send, a
+	sleep, 1000     
+    }
+return
+
+
 
 ^4::
 toggle := !toggle

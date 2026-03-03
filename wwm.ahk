@@ -81,18 +81,31 @@ if (toggle) {
 return
 
 
+^6::
+Toggle := !Toggle 
+if (Toggle) { 
+SetTimer, Pressz, 11000
+} else { 
+SetTimer, Pressz, Off
+} 
+return 
+
+Pressz:
+Send, z 
+return
+
 
 
 ^1::
 Toggle := !Toggle 
 if (Toggle) { 
-SetTimer, PressF, 5000 
+SetTimer, PressF, 5000
 } else { 
-SetTimer, PressF, Off 
+SetTimer, PressF, Off
 } 
 return 
 
-PressF: 
+PressF:
 Send, f 
 return
 

@@ -95,6 +95,20 @@ Send, z
 return
 
 
+^7::
+Toggle := !Toggle 
+if (Toggle) { 
+SetTimer, jump, 11000
+} else { 
+SetTimer, jump, Off
+} 
+return 
+
+jump:
+Send, {space} 
+return
+
+
 
 ^1::
 Toggle := !Toggle 

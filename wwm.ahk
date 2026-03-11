@@ -105,7 +105,12 @@ SetTimer, jump, Off
 return 
 
 jump:
-Send, {space} 
+Send, {a down}
+sleep, 2000
+send, {a up}
+send, {d down}
+sleep, 2000
+send, {d up} 
 return
 
 

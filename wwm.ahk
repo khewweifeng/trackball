@@ -12,7 +12,7 @@ toggle := false   ; variable to track toggle state
         Send, {Space}
         Sleep, 2000
 	send, a
-	sleep, 1000     
+	     
     }
 return
 
@@ -113,6 +113,19 @@ sleep, 2000
 send, {d up} 
 return
 
+
+^0::
+Toggle := !Toggle 
+if (Toggle) { 
+SetTimer, fish, 21000
+} else { 
+SetTimer, fish, Off
+} 
+return 
+
+fish:
+Send, 0 
+return
 
 
 ^1::

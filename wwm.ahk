@@ -117,7 +117,7 @@ return
 ^0::
 Toggle := !Toggle 
 if (Toggle) { 
-SetTimer, fish, 21000
+SetTimer, fish, 11000
 } else { 
 SetTimer, fish, Off
 } 

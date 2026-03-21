@@ -17,40 +17,7 @@ toggle := false   ; variable to track toggle state
 return
 
 
-
 ^4::
-toggle := !toggle
-
-if (toggle) {
-    lastQT := A_TickCount   ; track last Q→T sequence
-    while (toggle) {
-        ; --- Space sequence ---
-	sleep 2000
-        Send, {Space down}
-        Sleep, 2000
-        Send, {Space up}
-        Sleep, 100
-        Send, {Space}
-        Sleep, 10000
-
-        ; --- Press 4 ---
-        Send, 4
-        Sleep, 5000
-
-        ; --- Q→T sequence every 30s ---
-        if (!lastQT || (A_TickCount - lastQT >= 30000)) {
-            Send, q
-            Sleep, 3000
-            Send, t
-            lastQT := A_TickCount
-        }
-    }
-}
-return
-
-
-
-^5::
 toggle := !toggle
 
 if (toggle) {
@@ -98,19 +65,33 @@ return
 ^7::
 Toggle := !Toggle 
 if (Toggle) { 
-SetTimer, jump, 11000
+SetTimer, secure, 11000
 } else { 
-SetTimer, jump, Off
+SetTimer, secure, Off
 } 
 return 
 
-jump:
-Send, {a down}
-sleep, 2000
-send, {a up}
-send, {d down}
-sleep, 2000
-send, {d up} 
+secure:
+send, z
+Send, 6
+sleep, 1000
+send, s
+sleep, 1000
+send, f
+sleep, 1000
+send, a
+sleep, 1000
+send, f
+sleep, 1000
+send, d
+sleep, 1000
+send, f
+sleep, 1000
+send, w
+sleep, 1000
+send, f
+sleep, 1000
+send, z 
 return
 
 

@@ -48,6 +48,22 @@ if (toggle) {
 return
 
 
+^5::
+Toggle := !Toggle 
+if (Toggle) { 
+SetTimer, jumpr, 11000
+} else { 
+SetTimer, jumpr, Off
+} 
+return 
+
+jumpr:
+Send, {space}
+sleep, 500
+send, r
+return
+
+
 ^6::
 Toggle := !Toggle 
 if (Toggle) { 

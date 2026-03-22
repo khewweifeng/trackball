@@ -51,16 +51,16 @@ return
 ^5::
 Toggle := !Toggle 
 if (Toggle) { 
-SetTimer, jumpr, 11000
+SetTimer, jumpq, 11000
 } else { 
-SetTimer, jumpr, Off
+SetTimer, jumpq, Off
 } 
 return 
 
-jumpr:
+jumpq:
 Send, {space}
 sleep, 500
-send, r
+send, q
 return
 
 
